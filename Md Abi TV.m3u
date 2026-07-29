@@ -149,6 +149,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co.com/39HCbbcc/sony-yay-in.png", Sony YAY
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonyyay&e=.m3u8
 
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png",Duronto TV
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 # ─────────── INDIAN───────────
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/XfYvg0zh/star-plus-hd-in.png",STAR PLUS ᴴᴰ
 http://202.70.146.135:8000/play/a009/index.m3u8
