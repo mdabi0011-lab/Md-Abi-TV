@@ -341,14 +341,20 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonypix_hd&e=.m3u8
  
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO 2 ᴴᴰ
- 
- 
+
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Gold Mines
+
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Gold Mines Movie
+
+
 # ─────────── MUSIC ───────────
 #EXTINF:-1 group-title="MUSIC" tvg-logo="",9XM ᴴᴰ
  
  
-#EXTINF:-1 group-title="MUSIC" tvg-logo="",ZOOM MUSIC ᴴᴰ
- 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/gbzYxxRg/pngaaa-com-2833611.png",ZOOM MUSIC ᴴᴰ
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
  
 #EXTINF:-1 group-title="MUSIC" tvg-logo="",MASTI ᴴᴰ
  
@@ -372,8 +378,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png",ANIMAL PLANET ᴴᴰ
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=animal_planet_hd&e=.m3u8
  
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",NATIONAL GEOGRAPHIC
- 
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co.com/sdzkqS2R/toppng-com-national-geographic-logo-vector-400x400.png",NATIONAL GEOGRAPHIC
+http://202.70.146.135:8000/play/a05o/index.m3u8
  
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_892290001738663264.png",SONY BBC EARTH
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonybbc_earth_hd&e=.m3u8
@@ -382,7 +388,7 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonybbc_earth_hd&e=.m3u8
  
  
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png",DISCOVERYᴴᴰ
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
+http://202.70.146.135:8000/play/a05z/index.m3u8
  
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",DISCOVERY | WORLD ᴴᴰ
  
