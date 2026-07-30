@@ -181,7 +181,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
  
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co.com/39HCbbcc/sony-yay-in.png", Sony YAY
 https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
- 
+
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co.com/FbT6Tbk7/pogo-in.png",POGO
+https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
+
 # ─────────── INDIAN ───────────
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/XfYvg0zh/star-plus-hd-in.png",STAR PLUS ᴴᴰ
 http://202.70.146.135:8000/play/a009/index.m3u8
@@ -259,7 +262,7 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_sitaray&e=.m3u8
  
 # ─────────── INDIAN BANGLA ───────────
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/0pNytnTp/star-jalsha-hd-in.png",STAR JALSHA ᴴᴰ
-https://go.skym3u.top/live/aHR0cHM6Ly9saXZlLnNoYW1pbS1pcHR2LndvcmtlcnMuZGV2L1NUQVJKT0xTSEFIRC5tM3U4.m3u8
+http://ranapkx.site/TATABD/play.php?id=245898
  
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png",ZEE BANGLA ᴴᴰ
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
@@ -343,15 +346,18 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonypix_hd&e=.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO 2 ᴴᴰ
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",Gold Mines
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines
+http://103.175.73.12:8080/live/53/53_0.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines Movie
+http://103.175.73.12:8080/live/51/51_0.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",Gold Mines Movie
-
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines Bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
 
 # ─────────── MUSIC ───────────
-#EXTINF:-1 group-title="MUSIC" tvg-logo="",9XM ᴴᴰ
- 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/SRKS6TwR/20240823_022008.png",9XM ᴴᴰ
+http://103.175.73.12:8080/live/155/155_0.m3u8
  
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/Wpk3m9tR/zoom-in.png",ZOOM MUSIC ᴴᴰ
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
@@ -359,14 +365,15 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="",MASTI ᴴᴰ
  
  
-#EXTINF:-1 group-title="MUSIC" tvg-logo="",B4U MUSIC ᴴᴰ
- 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/VXK3CQz/b4u-music-in.png",B4U MUSIC ᴴᴰ
+http://103.175.73.12:8080/live/157/master.m3u8
  
 #EXTINF:-1 group-title="MUSIC" tvg-logo="",ARY MUSIC ᴴᴰ
  
  
-#EXTINF:-1 group-title="MUSIC" tvg-logo="",PTC MUSIC ᴴᴰ
- 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/NFKqPkBP/image.png",PTC MUSIC ᴴᴰ
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+
  
 #EXTINF:-1 group-title="MUSIC" tvg-logo="",9X JALWA ᴴᴰ
  
