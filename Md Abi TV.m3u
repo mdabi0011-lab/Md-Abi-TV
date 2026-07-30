@@ -322,7 +322,7 @@ http://66.102.126.10:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/MDPHCsbp/star-gold-select-hd-in-1.png",STAR GOLD SELECT ᴴᴰ
 http://66.102.126.10:8000/play/a01s/index.m3u8
  
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2018/08/zeebollywoodlogoNEW.jpg",ZEE BOLLYWOOD ᴴᴰ
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/b5pXHtdG/zee-bollywood-in.png",ZEE BOLLYWOOD ᴴᴰ
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_bollywood&e=.m3u8
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",ZING TV ᴴᴰ
