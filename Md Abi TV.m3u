@@ -289,13 +289,13 @@ http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Gfd8tS2k/and-pictures-in.png",& PICTURE ᴴᴰ
 https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
  
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png",SONY MAX ᴴᴰ
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/HDdJXf5B/sony-max-hd-in.png",SONY MAX ᴴᴰ
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_max_hd&e=.m3u8
  
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png",SONY MAX 2 ᴴᴰ
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/bjKdKTx9/sony-max-2-hd-in.png",SONY MAX 2 ᴴᴰ
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonymax_2&e=.m3u8
  
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",COLORS CINEPLEX BOLLYWOODᴴᴰ
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/T3kMHhm/colors-cineplex-bollywood-in.png",COLORS CINEPLEX BOLLYWOODᴴᴰ
 http://live.balajibroadband.com:3500/live/1763.m3u8
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/nqPJHNvx/pngwing-com-1.png",ZEE CINEMA ᴴᴰ
@@ -325,10 +325,10 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_bollywood&e=.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",ZING TV ᴴᴰ
  
  
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",B4U MOVIES ᴴᴰ
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/CLY0wKg/b4u-movies-in.png",B4U MOVIES ᴴᴰ
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=b4u_movies&e=.m3u8
  
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png",SONY PIX ᴴᴰ
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Jw6hWpzv/sony-pix-hd-in.png",SONY PIX ᴴᴰ
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonypix_hd&e=.m3u8
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",& PRIVE ᴴᴰ
@@ -353,7 +353,7 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonypix_hd&e=.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="",9XM ᴴᴰ
  
  
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/gbzYxxRg/pngaaa-com-2833611.png",ZOOM MUSIC ᴴᴰ
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/Wpk3m9tR/zoom-in.png",ZOOM MUSIC ᴴᴰ
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
  
 #EXTINF:-1 group-title="MUSIC" tvg-logo="",MASTI ᴴᴰ
