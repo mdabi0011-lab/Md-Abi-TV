@@ -242,12 +242,13 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=and_tv_hd&e=.m3u8
  
  
 # ─────────── PAKISTANI ───────────
- 
-#EXTINF:-1 group-title=PAKISTANI"" tvg-logo="https://i.ibb.co.com/XZBvc8n1/pngwing-com.png",HUM TV ᴴᴰ
-https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
+
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/68rW6rs/download-12-1.png",HUM TV MASALA ᴴᴰ
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_masala&e=.m3u8
+
+#EXTINF:-1 group-title=PAKISTANI"" tvg-logo="https://i.ibb.co.com/XZBvc8n1/pngwing-com.png",HUM TV ᴴᴰ
+https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png",ARY DIGITAL ᴴᴰ
  
@@ -268,7 +269,7 @@ https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
  
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/X21f3vV/sddefault.png",EXPRESS ENTERTAINMENT ᴴᴰ
-https://go.skym3u.top/live/aHR0cHM6Ly9zMy5pZGVhdGlvbnRlYy5saXZlL0V4cHJlc3NfRW50ZXJ0YWlubWVudC9FeHByZXNzX0VudGVydGFpbm1lbnQubTN1OA.m3u8
+https://live.thebosstv.com:30443/dwlive/EXP-ENTERTAINMENT/chunks.m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/bP5cgHm/images.png",AAJ ENTERTAINMENT ᴴᴰ
  
