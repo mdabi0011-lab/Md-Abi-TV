@@ -17,7 +17,10 @@ https://tvsen7.aynascope.net/sspts1/tracks-v1a1/mono.ts.m3u8
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/HLkX5dw5/channels4-profile.jpg",UNITE8 SPORTS 1 HD
-http://103.155.18.186:8000/play/a125/index.m3u8
+http://103.151.60.188:12345/hls/tab_j87p3zh/index.m3u8?t=1786212907628
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/HLkX5dw5/channels4-profile.jpg",UNITE8 SPORTS 2 HD
+http://103.151.60.188:12345/hls/tab_j87p3zh/index.m3u8?t=1786212964864
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/3VtDX65/unnamed-1.png",PTV SPORTS ᴴᴰ
 http://172.19.17.230:8090/hls/ptvsportshd.m3u8
