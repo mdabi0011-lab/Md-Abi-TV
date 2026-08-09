@@ -130,8 +130,8 @@ https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/7T2-k2SePa.png",My TV   
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
- 
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA9_Zt4kApyNO66aqYRLdbeU/m3u8
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/JZnibxXLfK.png",RTV Live 
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
  
@@ -142,7 +142,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/rsDjtcFp/20240822_225424.png",Ekushey TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA2XPeLKQzyARz9Kg1IVhNT4/m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/Tw4qxSqv/20240822-230126.png",Bijoy Tv
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
@@ -213,6 +213,9 @@ https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co.com/FbT6Tbk7/pogo-in.png",POGO
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co.com/JjpPKqcp/hungama-in.png",HUNGAMA 
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA_WT-qQ1Vvcp_PpPgcSvyx8/m3u8
+
 # ─────────── INDIAN ───────────
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/XfYvg0zh/star-plus-hd-in.png",STAR PLUS ᴴᴰ
 http://202.70.146.135:8000/play/a009/index.m3u8
@@ -230,7 +233,7 @@ https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/XfYvg0zh/star-plus-hd-in.png",STAR PLUS ᴴᴰ 
-https://aboxbdix.ryvox-tb-8ae.workers.dev/live/StarPlus.m3u8?token=177cd27879941a137f15e3a5c26c8ede&time=1786118908&link_index=0
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8Jtme7RaAxcODE52CEfCho/m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/qSZ3kZf/sony-sab-in.png",SONY SAB  
 https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
@@ -291,7 +294,7 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_sitaray&e=.m3u8
  
 # ─────────── INDIAN BANGLA ───────────
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/0pNytnTp/star-jalsha-hd-in.png",STAR JALSHA ᴴᴰ
-http://172.19.17.230:8090/hls/StarJalshaHD.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8PwkV3_HSXlG7wgILF5Hbk/m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png",ZEE BANGLA ᴴᴰ
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
@@ -310,12 +313,9 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/nMR9kdFV/Z-Bangla-Sonar.webp",ZEE BANGLA SONAR 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
- 
-#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/hRZY4z61/pngwing-com.png",JALSHA MOVIES ᴴᴰ
-https://footfytv.pro/proxy/direct?url=http%3A%2F%2F103.165.93.31%3A8095%2FjalshaMovies%2Ftracks-v1a1%2Fmono.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/hRZY4z61/pngwing-com.png",JALSHA MOVIES ᴴᴰ
-http://office.area51.vip/play/live.php?mac=00:1A:79:82:F9:38&stream=282666&extension=ts&play_token=H0gL45gMsS
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0bq5rYTiyJWOLa9MO2ZnMQ/m3u8
 # ─────────── MOVIES ───────────
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",&XPLORE ᴴᴰ
  
