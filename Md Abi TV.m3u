@@ -17,10 +17,13 @@ https://tvsen7.aynascope.net/sspts1/tracks-v1a1/mono.ts.m3u8
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/HLkX5dw5/channels4-profile.jpg",UNITE8 SPORTS 1 HD
-http://103.151.60.188:12345/hls/tab_j87p3zh/index.m3u8?t=1786212907628
+http://172.19.17.34/live/ontest1/ontest1/116.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/99bJqpRD/Screenshot-2026-08-09-201326.png",DAZN LALIGA
 http://31.43.191.125:8080/live/20102023/123456789/243.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/4RjgBg4N/Nice-Png-premier-league-logo-png-2133982.png",SKY SPORTS PREMIER LEAGUE
+http://172.19.17.34/live/ontest1/ontest1/147.ts
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/3VtDX65/unnamed-1.png",PTV SPORTS ᴴᴰ
 http://172.19.17.230:8090/hls/ptvsportshd.m3u8
