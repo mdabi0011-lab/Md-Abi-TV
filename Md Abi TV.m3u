@@ -68,8 +68,8 @@ https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png",Channel 1 4K
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
  
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/v65cfQ96/Channel-24.png",Channel 24
-https://stream.ottplus.live/live/channel_24_abr/live/channel_24_720/chunks.m3u8 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/v65cfQ96/Channel-24.png",Channel 24 ᴴᴰ
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3TXYZVui28McRVsltR95pg/m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/Xxrdnxkp/Channel9-HD.png",Channel 9 ᴴᴰ
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1181200.m3u8
@@ -81,7 +81,7 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/qLtLHv9m/pngegg-1.png",Independent TV
-https://sm-monirul.top/@monirul_Islam_SM/play/independent_tv.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6b4QxLgKvRMP0Q3GXYhhP0/m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/tMkKj7xK/Jamuna-Tv-logo-freekaj.jpg",Jamuna TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
@@ -164,6 +164,9 @@ https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
  
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/xd2mZ3f/Screenshot-2026-07-12-141337.jpg",Madani Bangla Channel 
 http://tvsen7.aynascope.net/MadaniTV/index.m3u8
+
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/xd2mZ3f/Screenshot-2026-07-12-141337.jpg",Madani Bangla Channel ᴴᴰ
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA2cX3U3SGuy6Cvr5qnBwyho/m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/3mgjJwy5/Screenshot-2026-07-12-211056.jpg",Peace TV Bangla 
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
