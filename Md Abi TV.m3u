@@ -66,13 +66,13 @@ https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png",Channel 1 4K
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAwaBLPVxQFk98d-ZojYX86g/m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/v65cfQ96/Channel-24.png",Channel 24 ᴴᴰ
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3TXYZVui28McRVsltR95pg/m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/Xxrdnxkp/Channel9-HD.png",Channel 9 ᴴᴰ
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1181200.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA7FcwQYZOprP4fG48JKASsA/m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TMKLMXs9/DBC-News.png",DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
@@ -109,11 +109,11 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/ofOLQDCLwk.png",Ananda TV 
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8
- 
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAwilXCDgrOTQ_gtCn7bKZJg/m3u8
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/fVH9h8Tk/Desh-TV.png",Desh TV 
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8
- 
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8e01IL-1CGI87-ctiB9WgQ/m3u8
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/1_dUKmt1Oe.png",G-Series 
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
  
@@ -230,13 +230,13 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA5BwO5YVWpLK5EgZNZcWXcE/m3u8
 
 # ─────────── INDIAN ───────────
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/XfYvg0zh/star-plus-hd-in.png",STAR PLUS ᴴᴰ
-http://202.70.146.135:8000/play/a009/index.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8Jtme7RaAxcODE52CEfCho/m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/bg4B0njr/zee-tv-hd-in.png",ZEE TV ᴴᴰ
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/TDYY54J0/colors-hd-in.png",COLORS ᴴᴰ 
-http://202.70.146.135:8000/play/a00b/index.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA2BpFIlg7SQHxrrmoENfKOA/m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/7xY5116n/sony-sab-hd-in.png",SONY SAB ᴴᴰ
 https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
@@ -245,7 +245,7 @@ https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/XfYvg0zh/star-plus-hd-in.png",STAR PLUS ᴴᴰ 
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8Jtme7RaAxcODE52CEfCho/m3u8
+http://202.70.146.135:8000/play/a009/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/qSZ3kZf/sony-sab-in.png",SONY SAB  
 https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
