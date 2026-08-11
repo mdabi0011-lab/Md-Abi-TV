@@ -558,8 +558,8 @@ http://vt4k.org/movie/Said722855/7262772624/2571076.mkv
 http://vt4k.org/movie/Said722855/7262772624/2571077.mkv
 
 # ─────────── OTT MOVIES ───────────
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="",
-
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="https://i.ibb.co.com/0jTkfFhp/Screenshot-2026-08-03-162501.png",Spider-Man: Brand New Day
+https://flixhub.net/stream/movie/spider-man-brand-new-day
 #EXTINF:-1 group-title="" tvg-name="" tvg-logo="",
 
 #EXTINF:-1 group-title="" tvg-name="" tvg-logo="",
@@ -596,9 +596,9 @@ http://vt4k.org/movie/Said722855/7262772624/2571077.mkv
 # ─────────── OTT SERIES  ───────────
 #EXTINF:-1 group-title="OTT SERIES" tvg-name="BACHELOR POINT" tvg-logo="https://i.ibb.co.com/JRhV4xj4/Screenshot-2026-08-08-220638.png",BACHELOR POINT
 
-#EXTINF:-1 tvg-id="" group-title="BACHELOR POINT" tvg-name="BACHELOR POINT S01 E01" tvg-logo="https://i.ibb.co.com/ZR71whd4/Screenshot-2026-08-08-220920.png",BACHELOR POINT S01 E01
+#EXTINF:-1 tvg-id="SEASON 1" group-title="BACHELOR POINT" tvg-name="BACHELOR POINT S01 E01" tvg-logo="https://i.ibb.co.com/ZR71whd4/Screenshot-2026-08-08-220920.png",BACHELOR POINT S01 E01
 
-#EXTINF:-1 tvg-id="" group-title="BACHELOR POINT" tvg-name="BACHELOR POINT S01 E02" tvg-logo="https://i.ibb.co.com/ZR71whd4/Screenshot-2026-08-08-220920.png",BACHELOR POINT S01 E02
+#EXTINF:-1 tvg-id="SEASON 1" group-title="BACHELOR POINT" tvg-name="BACHELOR POINT S01 E02" tvg-logo="https://i.ibb.co.com/ZR71whd4/Screenshot-2026-08-08-220920.png",BACHELOR POINT S01 E02
 
 #EXTINF:-1 group-title="" tvg-name="" tvg-logo="",
 
