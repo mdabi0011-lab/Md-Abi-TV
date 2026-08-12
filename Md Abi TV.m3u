@@ -234,6 +234,8 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA_WT-qQ1Vvcp_PpPgcSvyx8/m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/BnPv7zt1/20240823_021725.png",Disnep HD
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA5BwO5YVWpLK5EgZNZcWXcE/m3u8
 
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png",Durunto
+http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
 # ─────────── INDIAN ───────────
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/XfYvg0zh/star-plus-hd-in.png",STAR PLUS ᴴᴰ
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8Jtme7RaAxcODE52CEfCho/m3u8
