@@ -190,16 +190,19 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
  
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co/gFjDdkd/images-4.png",ARY QTV 
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
  
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://image2url.com/r2/default/images/1771151280861-b16e9421-f744-4922-83f4-791f990fd900.jpg",Bangla Waz
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
  
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/60h7qGyC/pngegg.png",Saudia Sunnahᴴᴰ
- 
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
  
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/Nd5ZH5yn/Screenshot-2026-08-10-150418.png",هزاع البلوشي  Hazza Al Balushi
 http://premiumtvs.space/live/samsung2861/manager5554/319596.ts 
+
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/Nd5ZH5yn/Screenshot-2026-08-10-150418.png",هزاع البلوشي  Hazza Al Balushi
+http://iptvnow.nl/live/e411b7855d/9b88760006cb/2021725.ts
  
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="",ياسين الجزائري Yassen ALGhzaeri
  
