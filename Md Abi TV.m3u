@@ -4,11 +4,20 @@
 https://videotourl.com/videos/1783932235156-e7d95931-d772-42a3-83f9-cc1f4ffc45dd.mp4
  
 # ───────────  SPORTS───────────
+#EXTINF:-1 group-title="SPORTS" tvg-id="sonyliv-1090539093" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709573895385_DC26_Jamshedpur_FC_vs_Indian_Air_Force_FT_landscape_thumb.jpg", Jamshedpur FC vs Indian Air Force FT - 13 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000296/Football1308/ENG/master.m3u8?hdnea=exp=1786636232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dd118d56526adb36bbfcecdc24ed4530ccb7780d1f5f7d0c011244e68acc9a9b
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="sonyliv-1090539092" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709446092385_DC26_Bodoland_FC_vs_Karbi_Anglong_Morning_Star_FC_landscape_thumb.jpg", Bodoland FC vs Karbi Anglong Morning Star FC - 13 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000292/Football1308/ENG/master.m3u8?hdnea=exp=1786636242~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c51c72bbfeecfa4ab060fb1297478caaf5acc494cf2d0b2bd4e1b6c98ca2c82c
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/QFrFP1yS/T-Sports-Tv-logo-freekaj.png",TSPORTS
 https://rangdhonu-proxy.tasinazad2009.workers.dev/?url=https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
  
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/wNgW6Tp5/willow-us.png",Willow Sports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/j9b673Ty/Screenshot-2026-08-13-151127.png",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/wNgW6Tp5/willow-us.png",Willow Sports
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/DggdzpY7/pngegg.png",Star Sports 1 Hindi HD
 https://tvsen7.aynascope.net/sspts1/tracks-v1a1/mono.ts.m3u8
@@ -242,9 +251,12 @@ http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
 # ─────────── INDIAN ───────────
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/XfYvg0zh/star-plus-hd-in.png",STAR PLUS ᴴᴰ
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8Jtme7RaAxcODE52CEfCho/m3u8
+
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/XfYvg0zh/star-plus-hd-in.png",STAR PLUS ᴴᴰ
+https://rangdhonu-proxy.tasinazad2009.workers.dev/?url=https%3A%2F%2Fs3.itcnbd.live%2Fchannel%2F6b0f236ae9a367ed.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/bg4B0njr/zee-tv-hd-in.png",ZEE TV ᴴᴰ
-https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_tv_hd&e=.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/TDYY54J0/colors-hd-in.png",COLORS ᴴᴰ 
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA2BpFIlg7SQHxrrmoENfKOA/m3u8
@@ -563,84 +575,240 @@ http://vt4k.org/movie/Said722855/7262772624/2571076.mkv
 http://vt4k.org/movie/Said722855/7262772624/2571077.mkv
 
 # ─────────── BOLLYWOOD MOVIES ───────────
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="MOVIES" tvg-logo="https://i.ibb.co.com/bj21VsyQ/Dhamaal-4.jpg",Dhamaal 4
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="MOVIES" tvg-logo="https://i.ibb.co.com/jkh9cbxc/Ajay-Devgn-s-Dhamaal-4-poster.png",Dhamaal 4
 https://flixhub.net/stream/movie/dhamaal-4
 
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="MOVIES" tvg-logo="https://i.ibb.co.com/FbMKvZBL/MV5-BOTZk-NDQw-Mj-Qt-Nj-A1-OC00-Njhm-LWI3-ZTEt-MGEz-ZDQ5-Zj-Zk-Mz-Ew-Xk-Ey-Xk-Fqc-Gc-V1.jpg",Welcome to the Jungle
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="MOVIES" tvg-logo="https://i.ibb.co.com/TMydGVpp/download.png",Welcome to the Jungle
 https://flixhub.net/stream/movie/welcome-to-the-jungle
 
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="MOVIES" tvg-logo="https://i.ibb.co.com/DDN3L498/images.jpg",Dilwale Dulhania Le Jayenge
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/yFcX1YTt/Housefull-5.png",Housefull 5 
+https://flixhub.net/stream/movie/housefull-5
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/9H97N4Rx/Bhooth-Bangla.png",Bhoot Bangla 
+https://flixhub.net/stream/movie/bhooth-bangla
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/bgpPCVLT/Dhurandhar-The-Revenge-Ranveer-Singh-New-Movie-Look-2026.png",Dhurandhar: The Revenge
+https://flixhub.net/stream/movie/dhurandhar-the-revenge
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/4gTvbQP7/Vegamovies-NL.png",Ginny Wedss Sunny 2
+https://flixhub.net/stream/movie/ginny-wedss-sunny-2
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/XrqRLSbh/download.png",Hai Jawani Toh Ishq Hona Hai
+https://flixhub.net/stream/movie/hai-jawani-toh-ishq-hona-hai
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/Rpxn7MYW/download-1.png",Border 2 
+https://flixhub.net/stream/movie/border-2
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/pjPfBJxb/NEW-MOVIE-2026-Name-Pati-Patni-Aut-Woh-Do-Genres-Comedy-Drama-Romance-IMDb-7-7-10.png",Pati Patni Aur Woh Do
+https://flixhub.net/stream/movie/pati-patni-aur-woh-do
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/fzDbfxV0/PEDDI-Movie-Poster-Ram-Charan-Mass-Action-Look-Sukumar-Film-2026-Indian-Telugu-Cinema.png",Peddi
+https://flixhub.net/stream/movie/peddi
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/4ncHp4Bp/War2.png",War 2
+https://flixhub.net/stream/movie/war-2
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/DfgPrtMQ/Tu-Meri-Main-Tera-Main-Tera-Tu-Meri-release-date.png",Tu Meri Main Tera Main Tera Tu Meri
+https://flixhub.net/stream/movie/tu-meri-main-tera-main-tera-tu-meri
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="https://i.ibb.co.com/nq6v4dDt/Virgin-Tree-x-Bhootnii-The-Bhootnii-in-cinemas-1st-May-2025-Filmistaan-Times-The-Bhootnii-S.png" tvg-logo="",The Bhootnii
+https://flixhub.net/stream/movie/the-bhootnii
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/nsHSbs1z/Son-Of-Sardaar-2-Movie-Star-Cast.png",Son of Sardaar 2
+https://flixhub.net/stream/movie/son-of-sardaar-2
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/JjpH8gBH/Sky-force-2025.png",Sky Force
+https://flixhub.net/stream/movie/sky-force
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/KzBhvbdL/download-2.png",Sitaare Zameen Par
+https://flixhub.net/stream/movie/sitaare-zameen-par
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/NgHTkXHX/Sikandar.png",Sikandar
+https://flixhub.net/stream/movie/sikandar
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/8LZ20bYz/SAIYAARA.png",Saiyaara
+https://flixhub.net/stream/movie/saiyaara
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/nqxGkr2z/download-3.png",Kis Kisko Pyaar Karoon 2
+https://flixhub.net/stream/movie/kis-kisko-pyaar-karoon-2
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/ynK6Z8PK/Akshardham-Operation-Vajra-Shakti.png",Akshardham: Operation Vajra Shakti
+https://flixhub.net/stream/movie/akshardham-operation-vajra-shakti
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/Y4PRb0KB/download-4.png",Jolly LLB 3
+https://flixhub.net/stream/movie/jolly-llb-3
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="MOVIES" tvg-logo="https://i.ibb.co.com/pjhz3JFy/Dilwale-Dulhania-Le-Jayenge-by-Aditya-Chopra.png",Dilwale Dulhania Le Jayenge
 https://flixhub.net/stream/movie/dilwale-dulhania-le-jayenge
 
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/359z5K0P/mohabbatein-dvd-movie-cover.webp",MOHABBATIEN
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/d4PfjJhh/download-1.png",MOHABBATIEN
 https://flixhub.net/stream/movie/mohabbatein
 
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/mC5Nv6bd/images.jpg",Kabhi Khushi Kabhie Gham
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/NnxSDhhr/download-5.png",Animal
+https://flixhub.net/stream/movie/animal
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/35P7Nr3t/download-6.png",Jawan
+https://flixhub.net/stream/movie/jawan
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/spRxh94z/download-7.png",OMG 2 
+https://flixhub.net/stream/movie/omg-2
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/HfMMVwrw/download-8.png",12th Fail
+https://flixhub.net/stream/movie/12th-fail
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/h1Mcx9M6/Watch-Pathaan-Full-Movie-HD-facts-Online-free.png",Pathaan
+https://flixhub.net/stream/movie/pathaan
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/3m1zkjw5/download-9.png",Sam Bhadaur
+https://flixhub.net/stream/movie/sam-bahadur
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/fYyysk5B/Dhurandhar-2025.png",Dhurandhar
+https://flixhub.net/stream/movie/dhurandhar
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/fdLPVff5/Gustaakh-Ishq-in-cinemas-November-28.png",Gustaakh Ishq
+https://flixhub.net/stream/movie/gustaakh-ishq
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/1YDyyqcf/Kabhi-Khushi-Kabhie-Gham-2001.png",Kabhi Khushi Kabhie Gham
 https://flixhub.net/stream/movie/kabhi-khushi-kabhie-gham
 
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/HDShycTr/images.jpg",Kal Ho Naa Ho
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/PzWnbdmb/Kal-Ho-Na-Ho-2003.png",Kal Ho Naa Ho
 https://flixhub.net/stream/movie/kal-ho-naa-ho
 
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/zVR1hn5C/MV5-BMm-I0-ODNh-Ym-Et-OWM4-My00-Mm-Fl-LTk4-Zm-Et-Ym-Q2-Mm-Nj-ODcx-Nz-U2-Xk-Ey-Xk-Fqc-Gc-V1.jpg",Veer-Zaara
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/23jNwF5t/Veer-Zaara-2004.png",Veer-Zaara
 https://flixhub.net/stream/movie/veer-zaara
 
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/Wbz214P/MV5-BMDcw-ZDJh-OGQt-NWI5-NS00-Mm-I3-LWFk-Yj-Mt-NTY3-OGUx-Mjgw-Mj-Zi-Xk-Ey-Xk-Fqc-Gc-V1.jpg",Main Hoon Na
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/4gDhSmnd/Watch-Main-Hoon-Na-Full-Movie-HD-facts-Online-free.png",Main Hoon Na
 https://flixhub.net/stream/movie/main-hoon-na
 
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/d09Hr8M0/MV5-BYm-M0-YTg1-ODAt-NDU2-Yi00-OTk0-LTlh-M2-Qt-OGU5-Yjk4-Mm-Zk-ZDFm-Xk-Ey-Xk-Fqc-Gc-V1.jpg",Aladin
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/prKZKXm8/download-2.png",Aladin
 https://flixhub.net/stream/movie/aladin
 
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/CKcZwHtg/MV5-BNzc4-ZWQ3-Nm-Yt-ODE0-Ny00-YTQ4-LTlk-ZWIt-NTBk-MGQ0-Mm-Uw-Mm-Jl-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",3 Idiots
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/xt0V4Xrh/3-IDIOTS-3-APTAL.png",3 Idiots
 https://flixhub.net/stream/movie/3-idiots
 
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/yJKZgVs/MV5-BMz-Ew-Nj-Ix-OTI4-NV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-ODk0-ODg0-NQ-V1-FMjpg-UX1000.jpg",Double Dhamaal
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/TxNyZq91/Double-Dhamaal-2011-720p-Hindi-BRRip-Full-Movie-Download-Divertissement.png",Double Dhamaal
 https://flixhub.net/stream/movie/double-dhamaal
 
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/B5TjWFSv/MV5-BNDM5-ZWM2-ZTkt-ZTM5-My00-NGQz-LWFk-Ym-It-Zj-Ay-NDU0-ZTli-OGIy-Xk-Ey-Xk-Fqc-Gc-V1.jpg",Chennai Express
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/QjqT0d9H/download-3.png",Chennai Express
 https://flixhub.net/stream/movie/chennai-express
 
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/4wsLdrCj/MV5-BMTYz-OTE2-Njkx-N15-BMl5-Ban-Bn-Xk-Ft-ZTgw-MDgz-MTg0-Mz-E-V1.jpg",PK
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/TVXM8S2/PK-PEEKAY-2014.png",PK
 https://flixhub.net/stream/movie/pk
 
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/r2WXXh8W/images.jpg",Bajrangi Bhaijaan
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/twpDRPG8/Dangal-2016-Poster.png",Dangal
+https://flixhub.net/stream/movie/dangal
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/ymG2D9kL/Sultan.png",Sultan
+https://flixhub.net/stream/movie/sultan
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/67J3yDX2/Bajrangi-Bhaijaan-2015.png",Bajrangi Bhaijaan
 https://flixhub.net/stream/movie/bajrangi-bhaijaan
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/mrw8qN5g/Watch-Drishyam-Full-Movie-HD-facts-Online-free.png",Drishyam
+https://flixhub.net/stream/movie/drishyam
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/Y4fJNBYW/Drishyam-2-2022-Poster.png",Drishyam 2
+https://flixhub.net/stream/movie/drishyam-2-1
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/TxM82L2N/Parched.png",Parched
+https://flixhub.net/stream/movie/parched
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/7xgKpZCg/Shahid-Kapoor-New-Movie-Kabir-Singh-Kabir-Singh-Kabir-Singh-Movie-kabir-singh-full-movie.png",Kabir Singh
+https://flixhub.net/stream/movie/kabir-singh
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/sps7vTwx/Ginny-Weds-Sunny.png",Ginny Weds Sunny
+https://flixhub.net/stream/movie/ginny-weds-sunny
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/VpbD9wXn/Khuda-Hafiz-Chapter-2-Agni-Pariksha.png",Khuda Haafiz Chapter 2: Agni Pariksha
+https://flixhub.net/stream/movie/khuda-haafiz-chapter-2-agni-pariksha
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
 
 #EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
 
 
-
-
-
 # ─────────── HOLLYWOOD MOVIES ───────────
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/b5sVgRMs/images.jpg",Spider-Man: Brand New Day
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/tT8vYfhW/Spider-Man-Brand-New-Day.png",Spider-Man: Brand New Day
 https://flixhub.net/stream/movie/spider-man-brand-new-day
 
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/JRkpL093/titanic-dvd-movie-cover.webp",Titanic
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/N4T794j/Titanic.png",Titanic
 https://flixhub.net/stream/movie/titanic
 
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/H34h9Qy/images.jpg",Spider-Man
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/1J8w3MGh/Spiderman.png",Spider-Man
 https://flixhub.net/stream/movie/spider-man
 
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/XQt388f/k-Nh-Zk-R3-UNb-Xfv-ESQo7m-Jp-Oi4t-Gd.webp",Treasure Planet
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/4Zb4p0mr/Treasure-Planet.png",Treasure Planet
 https://flixhub.net/stream/movie/treasure-planet
 
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/qMYD1Fbh/p-piratesofthecaribbean-thecurseoftheblackpearl-19642-d1ba8e66.jpg",Pirates of the Caribbean: The Curse of the Black Pearl
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/j9GcHNzY/Pirates-of-the-Caribbean-1-the-Curse-of-the-Black-Pearl-Karayip-Korsanlar-1-Siyah-ncinin-Lan.png",Pirates of the Caribbean: The Curse of the Black Pearl
 https://flixhub.net/stream/movie/pirates-of-the-caribbean-the-curse-of-the-black-pearl
 
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/KYF0JT1/s-Ve-XZLejqi-IDSy-P8-BGb-Mpdjz-IFF.webp",Chelsea FC - Season Review 2003/04
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/LdRbjHs5/download-4.png",Chelsea FC - Season Review 2003/04
 https://flixhub.net/stream/movie/chelsea-fc-season-review-200304
 
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/b5vqV8SF/4455663254-b53ee4dca2-b.jpg",Troy
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/jZDJPCGR/Troy.png",Troy
 https://flixhub.net/stream/movie/troy
 
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",Batman Begins
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/0pHKGZy2/Batman-Begins.png",Batman Begins
 https://flixhub.net/stream/movie/batman-begins
 
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",Pirates of the Caribbean: Dead Man's Chest
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/kVpynDHd/download-5.png",Pirates of the Caribbean: Dead Man's Chest
 https://flixhub.net/stream/movie/pirates-of-the-caribbean-dead-mans-chest
 
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",Spider-Man 3
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://i.ibb.co.com/dsTnyKn3/SPIDER-MAN-3-2007-MOVIE-MARK-OF-THE-BEAST-PREDICTIVE-PROGRAMMING.png",Spider-Man 3
 https://flixhub.net/stream/movie/spider-man-3
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
 
 #EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
 
