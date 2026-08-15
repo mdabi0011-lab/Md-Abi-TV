@@ -11,8 +11,8 @@ https://sonydaimenew.akamaized.net/hls/live/20000296/Football1308/ENG/master.m3u
 https://sonydaimenew.akamaized.net/hls/live/20000292/Football1308/ENG/master.m3u8?hdnea=exp=1786636242~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c51c72bbfeecfa4ab060fb1297478caaf5acc494cf2d0b2bd4e1b6c98ca2c82c
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/QFrFP1yS/T-Sports-Tv-logo-freekaj.png",TSPORTS
-https://rangdhonu-proxy.tasinazad2009.workers.dev/?url=https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
- 
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA7X-uI_Yz5Q0PyFgtEe_2oo/m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/j9b673Ty/Screenshot-2026-08-13-151127.png",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?
 
@@ -20,7 +20,7 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/DggdzpY7/pngegg.png",Star Sports 1 Hindi HD
-https://tvsen7.aynascope.net/sspts1/tracks-v1a1/mono.ts.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAzHIcXdz5jRMn8Ov4OJiSp0/m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/DggdzpY7/pngegg.png",Star Sports 2 HD
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
@@ -32,7 +32,7 @@ http://172.19.17.34/live/ontest1/ontest1/116.ts
 http://31.43.191.125:8080/live/20102023/123456789/243.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/4RjgBg4N/Nice-Png-premier-league-logo-png-2133982.png",SKY SPORTS PREMIER LEAGUE
-http://172.19.17.34/live/ontest1/ontest1/147.ts
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3OYQnwjfxxIVHOtbhMbxP4/m3u8
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/3VtDX65/unnamed-1.png",PTV SPORTS ᴴᴰ
 http://172.19.17.230:8090/hls/ptvsportshd.m3u8
@@ -41,7 +41,7 @@ http://172.19.17.230:8090/hls/ptvsportshd.m3u8
 http://murgi.live:8083/Feedget/ptv_pk/tracks-v1a1/mono.m3u8?token=782b9e77c6763268145be91e93e7995999ed71b9-605ea0899b2a4117b5414af463121957-1786446407-1786435607
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png",Star Sports SL 1
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6wMhKKBZ5xf_KSqzi5kG5I/m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png",Star Sports SL 2
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA4ESUPnezb3DQXgrHGetQUQ/m3u8
@@ -190,11 +190,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
  
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/mFMwgRbw/Screenshot-2026-07-12-211430.jpg",Saudi Quran SD 
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
- 
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/9kQYKjdn/Screenshot-2026-07-12-211708.jpg",Saudi Quran ᴴᴰ
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
- 
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA5DoTRdHuB0GyjeUFSiqFh4/m3u8
+
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/NnKYqqfx/Screenshot-2026-07-12-211812.jpg",Quran TV 
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
  
@@ -256,7 +253,7 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8Jtme7RaAxcODE52CEfCho/m3u8
 https://rangdhonu-proxy.tasinazad2009.workers.dev/?url=https%3A%2F%2Fs3.itcnbd.live%2Fchannel%2F6b0f236ae9a367ed.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/bg4B0njr/zee-tv-hd-in.png",ZEE TV ᴴᴰ
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_tv_hd&e=.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0LsoWjfdK2qN9piL6BK1KI/m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/TDYY54J0/colors-hd-in.png",COLORS ᴴᴰ 
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA2BpFIlg7SQHxrrmoENfKOA/m3u8
@@ -265,7 +262,7 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA2BpFIlg7SQHxrrmoENfKOA/m3u8
 https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/5gxQZ4pL/sony-entertainment-television-hd-in.png",SONY TV ᴴᴰ
-https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8_2RkA4bWLHI7c9HGqYYCA/m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/XfYvg0zh/star-plus-hd-in.png",STAR PLUS ᴴᴰ 
 http://202.70.146.135:8000/play/a009/index.m3u8
@@ -274,7 +271,7 @@ http://202.70.146.135:8000/play/a009/index.m3u8
 https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/8tKFqby/and-tv-hd-in.png",& TV ᴴᴰ
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=and_tv_hd&e=.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA-apbFBPyhH5Vw4IeJ6WhF4/m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/vCdMrMPW/star-bharat-hd-in.png",STAR BHARAT ᴴᴰ
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0Rrlt7ta1WceuKdbR2ZG2M/m3u8
@@ -360,10 +357,10 @@ http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155771&ext
 https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/HDdJXf5B/sony-max-hd-in.png",SONY MAX ᴴᴰ
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_max_hd&e=.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA9ptrC8VcTi-qLSjW5BFQgU/m3u8
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/bjKdKTx9/sony-max-2-hd-in.png",SONY MAX 2 ᴴᴰ
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonymax_2&e=.m3u8
+
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/T3kMHhm/colors-cineplex-bollywood-in.png",COLORS CINEPLEX BOLLYWOODᴴᴰ
 http://live.balajibroadband.com:3500/live/1763.m3u8
@@ -396,10 +393,10 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_bollywood&e=.m3u8
  
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/CLY0wKg/b4u-movies-in.png",B4U MOVIES ᴴᴰ
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=b4u_movies&e=.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA4n_zRzoRzcCU7-ipB8N9Z8/m3u8
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Jw6hWpzv/sony-pix-hd-in.png",SONY PIX ᴴᴰ
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonypix_hd&e=.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAyGqj_F8238O0SvD3AOiOeQ/m3u8
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",& PRIVE ᴴᴰ
  
@@ -449,13 +446,13 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/in
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 # ─────────── DOCUMENTARY ───────────
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png",ANIMAL PLANET ᴴᴰ
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=animal_planet_hd&e=.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0GfnCSXhQEoaLbTinqwE6A/m3u8
  
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co.com/sdzkqS2R/toppng-com-national-geographic-logo-vector-400x400.png",NATIONAL GEOGRAPHIC
 http://202.70.146.135:8000/play/a05o/index.m3u8
  
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_892290001738663264.png",SONY BBC EARTH
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonybbc_earth_hd&e=.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA_Ozru7NOfp9m14vmxiQpqE/m3u8
  
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/zvPTkPjH/IJH47f-J.png",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
@@ -480,7 +477,7 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6Tmaw02-CTCOVqUD4PRRaQ/m3u8
  
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png",TLC ᴴᴰ
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=tlc_sd&e=.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3qai8EuqwqgplJgQg9chBI/m3u8
 
 # ───────────QURAN-E-PAK ───────────
 
