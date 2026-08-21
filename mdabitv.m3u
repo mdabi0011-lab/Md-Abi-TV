@@ -40,10 +40,10 @@ http://172.19.17.230:8090/hls/ptvsportshd.m3u8
 https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/ptv_sports/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png",Star Sports SL 1
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6wMhKKBZ5xf_KSqzi5kG5I/m3u8
+https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png",Star Sports SL 2
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA4ESUPnezb3DQXgrHGetQUQ/m3u8
+https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png",Sony Ten 1
 https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
