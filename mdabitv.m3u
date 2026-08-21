@@ -6,7 +6,7 @@ https://videotourl.com/videos/1783932235156-e7d95931-d772-42a3-83f9-cc1f4ffc45dd
 # ───────────  SPORTS───────────
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/QFrFP1yS/T-Sports-Tv-logo-freekaj.png",TSPORTS
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/t_sports_hd/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/j9b673Ty/Screenshot-2026-08-13-151127.png",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?
@@ -33,7 +33,7 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3OYQnwjfxxIVHOtbhMbxP4/m3u8
 http://172.19.17.230:8090/hls/ptvsportshd.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/3VtDX65/unnamed-1.png",PTV SPORTS 
-https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/ptv_sports/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png",Star Sports SL 1
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6wMhKKBZ5xf_KSqzi5kG5I/m3u8
@@ -330,7 +330,7 @@ https://live.rangdhonu.live/stream/starjalsha1_link_copy_kore_lav_nai_1h_por_aut
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
  
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/zWVxyd4M/sony-aath-in.png",SONY AATH ᴴᴰ
-https://live.rangdhonu.live/stream/sonnyath_copy_kore_lav_nai/playlist.m3u8?expires=1789662142&sig=TBLPuyDN-30Lx6zKpuV0dpx79-7y7vTWTQ1yYIWiEUU
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/sony_aath/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png",COLORS BANGLA ᴴᴰ
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA7HeT2csjR05XzsGRPnDx-E/m3u8
