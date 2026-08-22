@@ -237,7 +237,7 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA_WT-qQ1Vvcp_PpPgcSvyx8/m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/BnPv7zt1/20240823_021725.png",Disney Channel 
-https://xtreamcode.allinonereborn.workers.dev/stream/8423f929/1166.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1097664.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png",Durunto
 http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
@@ -595,9 +595,20 @@ https://media.kbhub.online/OTT%20KB/Bachelor%20Point/111/S05E111.m3u8
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/112/S05E112.m3u8
 
 #EXTINF:-1 group-title="LATEST MOVIES & TV SERIES" tvg-logo="https://cdn.district.in/movies-assets/images/cinema/Demon-Slayer--Kimetsu-no-Yaiba-Infinity-Castle-cover-91e66b40-9a9f-11f0-be0a-8909774f1565.jpg",Demon Slayer: Kimetsu no Yaiba Infinity Castle 
-https://ftp.ctgfun.com/Others/Asian%20Movie/Demon%20Slayer-Kimetsu%20no%20Yaiba%20Infinity%20Castle%20(2025)%20Hindi%20English%20Japanese%20720p%20BluRay%20x264%20ESub%20%5BDDN%5D/Demon%20Slayer-Kimetsu%20no%20Yaiba%20Infinity%20Castle%20%282025%29%20Hindi%20English%20Japanese%20720p%20BluRay%20x264%20ESub%20%5BDDN%5D.mp4# ─────────── BOLLYWOOD MOVIES ───────────
+https://ftp.ctgfun.com/Others/Asian%20Movie/Demon%20Slayer-Kimetsu%20no%20Yaiba%20Infinity%20Castle%20(2025)%20Hindi%20English%20Japanese%20720p%20BluRay%20x264%20ESub%20%5BDDN%5D/Demon%20Slayer-Kimetsu%20no%20Yaiba%20Infinity%20Castle%20%282025%29%20Hindi%20English%20Japanese%20720p%20BluRay%20x264%20ESub%20%5BDDN%5D.mp4#
+
+─────────── BOLLYWOOD MOVIES ───────────
 #EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="MOVIES" tvg-logo="https://image.tmdb.org/t/p/w500/AguX4gfbB7n1bZPk3HL5rkvabXe.jpg",Awarapan 2
 https://flixhub.net/stream/movie/awarapan-2
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/1q0dAC3OJZVKQcV2dG5sGvdUGqN.jpg",Vettaiyan
+https://flixhub.net/stream/movie/vettaiyan
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/u4qctwtUwTEnA1gqQhM84MUygXp.jpg",Batwara 1947
+https://flixhub.net/stream/movie/batwara-1947
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
 
 #EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="MOVIES" tvg-logo="https://image.tmdb.org/t/p/original/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",Dhamaal 4
 https://flixhub.net/stream/movie/dhamaal-4
@@ -793,9 +804,11 @@ https://flixhub.net/stream/movie/spider-man-3
 #EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",The Odyssey
 https://flixhub.net/stream/movie/the-odyssey
 
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",Moana
+https://flixhub.net/stream/movie/moana-1
 
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/moejGxR2haap29d9NQ7qe8x4eGj.jpg",Supergirl
+https://flixhub.net/stream/movie/supergirl
 
 #EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
 
