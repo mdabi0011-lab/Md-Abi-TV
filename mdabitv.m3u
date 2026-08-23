@@ -244,6 +244,9 @@ http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=1097664&ext
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co.com/JjpPKqcp/hungama-in.png",HUNGAMA 
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1097664.m3u8
 
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/BnPv7zt1/20240823_021725.png",Disney Channel ᴴᴰ
+http://66.102.126.10:8000/play/a013/index.m3u8
+
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/BnPv7zt1/20240823_021725.png",Disney Channel 
 https://tvsen7.aynaott.com/disney/index.m3u8
 
