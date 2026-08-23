@@ -252,8 +252,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1097664
 http://66.102.126.10:8000/play/a013/index.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/BnPv7zt1/20240823_021725.png",Disney Channel 
-https://tvsen7.aynaott.com/disney/index.m3u8
-
+https://hridoytv-otv2.vercel.app/api/proxy/live.m3u8?url=2fbff6ba9f53db60ebbb394f8a300d4cd0fcfdc1040233bb5a6cb988817e441e9f03847b5c5081af3de38e5bd63c349cc8fea0af79897fda00c6dd432e20c1c22e6f5f8feab371072b9be3520b22c1b31700bfe6c20daa6259e0ee17b7e6123b91998eb66ebf53004301103463b66286b7669985bed8db41f5f0ad37ec1a9840
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png",Durunto
 http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
 
