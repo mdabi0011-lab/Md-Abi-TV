@@ -164,16 +164,16 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3ZYaiin8fAxyCPYTttL4C8/m3u8
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA_ASUbZ4J0MM8dmvxzsJVHw/m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/rsDjtcFp/20240822_225424.png",Ekushey TV
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA2XPeLKQzyARz9Kg1IVhNT4/m3u8
+https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/Tw4qxSqv/20240822-230126.png",Bijoy Tv
-https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/Z54fVGww/20240822_230947.png", Nagorik
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6HPuuqZ9RhYrp9fjXh2mLU/m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/ry4QcVbh/20240822-231240.png",Green TV
-
+https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8
 # ─────────── ISLAMIC ───────────
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/8gtmjZk7/Screenshot-2026-07-12-140826.jpg",Azan TV 
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
@@ -241,8 +241,11 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co.com/JjpPKqcp/hungama-in.png",HUNGAMA 
 http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=1097664&extension=m3u8
 
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/BnPv7zt1/20240823_021725.png",Disney Channel 
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co.com/JjpPKqcp/hungama-in.png",HUNGAMA 
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1097664.m3u8
+
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/BnPv7zt1/20240823_021725.png",Disney Channel 
+https://tvsen7.aynaott.com/disney/index.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png",Durunto
 http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
@@ -278,8 +281,8 @@ https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=sony_entertainment&e=.m
 http://202.70.146.135:8000/play/a009/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/qSZ3kZf/sony-sab-in.png",SONY SAB  
-https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
- 
+https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8?nimblesessionid=125067320
+
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/8tKFqby/and-tv-hd-in.png",& TV ᴴᴰ
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA-apbFBPyhH5Vw4IeJ6WhF4/m3u8
  
@@ -346,6 +349,7 @@ https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
  
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/zWVxyd4M/sony-aath-in.png",SONY AATH ᴴᴰ
 https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/sony_aath/index.m3u8
+#https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png",COLORS BANGLA ᴴᴰ
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA7HeT2csjR05XzsGRPnDx-E/m3u8
@@ -457,9 +461,10 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/in
  
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/JjpmgTwd/756c50edae8599fb760cbbfb22010a75.png",YRF MUSIC ᴴᴰ
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
 # ─────────── DOCUMENTARY ───────────
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png",ANIMAL PLANET ᴴᴰ
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0GfnCSXhQEoaLbTinqwE6A/m3u8
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
  
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co.com/sdzkqS2R/toppng-com-national-geographic-logo-vector-400x400.png",NATIONAL GEOGRAPHIC
 http://202.70.146.135:8000/play/a05o/index.m3u8
@@ -486,11 +491,10 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_turbo&e=.m3u8
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8R0vb6FhfslzVfJ1AzI8rM/m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co.com/99tKTG2p/nat-geo-wild-us.png",NAT GEO WILD
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6Tmaw02-CTCOVqUD4PRRaQ/m3u8
- 
+https://tvsen6.aynaott.com/natgeo/index.m3u8 
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png",TLC ᴴᴰ
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3qai8EuqwqgplJgQg9chBI/m3u8
+https://tvsen6.aynaott.com/tlc_hd/index.m3u8
 
 # ───────────QURAN-E-PAK ───────────
 
