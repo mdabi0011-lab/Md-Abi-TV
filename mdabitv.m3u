@@ -1,3 +1,9 @@
+
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+
 #EXTM3U
 # ─────────── Md Abi TV───────────
 #EXTINF:-1 tvg-name="Welcome to Md Abi TV" group-title="Welcome to Md Abi TV" tvg-logo="https://cdn.phototourl.com/free/2026-07-11-54d3c19b-badc-4df2-ac26-ee3f8134318d.png",Welcome to Md Abi TV 
@@ -872,5 +878,6 @@ https://flixhub.net/stream/movie/supergirl
 
 
 
-# ─────────── FIFA World Cup 2026 ───────────
+
+
 
