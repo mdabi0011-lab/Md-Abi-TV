@@ -79,29 +79,32 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/ts-eu-w1-n
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 # ───────────  BANGLADESH───────────
+#EXTINF:-1 tvg-id="btv_shangshad" group-title="BANGLADESH" tvg-name="BTV Shangshad" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png",BTV Shangshad
+https://akash.sm-monirul.top/btv_shangshad.m3u8
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/r7W0ZbQHU9.png",SOMOY TV 
-https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
+https://akash.sm-monirul.top/somoy_tv.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TXNCpCP/Btv-National.png",BTV
-https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
+https://akash.sm-monirul.top/btv.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/5X1JmFbF/Bangla-Vision.png",Bangla Vision
-https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
+https://akash.sm-monirul.top/bangla_vision.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/V0t9c7SS/Screenshot-2026-07-11-233309.jpg",ATN Bangla ᴴᴰ
-https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
+https://akash.sm-monirul.top/atn_news.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/H038J5LwdN.png", Channel I
-https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+https://akash.sm-monirul.top/channel_i_hd.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png",Channel 1 4K
 https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/v65cfQ96/Channel-24.png",Channel 24 ᴴᴰ
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3TXYZVui28McRVsltR95pg/m3u8
+https://akash.sm-monirul.top/channel_24_hd.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/Xxrdnxkp/Channel9-HD.png",Channel 9 ᴴᴰ
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA7FcwQYZOprP4fG48JKASsA/m3u8
+https://akash.sm-monirul.top/channel_9_hd.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TMKLMXs9/DBC-News.png",DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
@@ -110,7 +113,7 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/qLtLHv9m/pngegg-1.png",Independent TV
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6b4QxLgKvRMP0Q3GXYhhP0/m3u8
+https://akash.sm-monirul.top/independent_tv.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/tMkKj7xK/Jamuna-Tv-logo-freekaj.jpg",Jamuna TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
@@ -141,7 +144,7 @@ https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAwilXCDgrOTQ_gtCn7bKZJg/m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/fVH9h8Tk/Desh-TV.png",Desh TV 
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8e01IL-1CGI87-ctiB9WgQ/m3u8
+https://akash.sm-monirul.top/desh_tv.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/1_dUKmt1Oe.png",G-Series 
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
