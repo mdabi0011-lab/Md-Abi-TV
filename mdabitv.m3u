@@ -449,13 +449,14 @@ http://66.102.126.10:8000/play/a020/index.m3u8
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines
-http://103.175.73.12:8080/live/53/53_0.m3u8
+https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines Movie
-http://103.175.73.12:8080/live/51/51_0.m3u8
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines Bollywood
-http://103.175.73.12:8080/live/52/52_0.m3u8
+https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
 
 # ─────────── MUSIC ───────────
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/3ycsFp7H/9xm-in.png",9XM ᴴᴰ
