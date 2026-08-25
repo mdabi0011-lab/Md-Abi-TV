@@ -11,7 +11,8 @@ https://videotourl.com/videos/1783932235156-e7d95931-d772-42a3-83f9-cc1f4ffc45dd
 
 # ───────────  SPORTS───────────
 
-
+#EXTINF:-1  group-title="SPORTS" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17873125771020x576.jpg", Sri Lanka Vs India
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7NWzWcbg/CITYPNG-COM-Premier-League-Official-Logo-2000x2000.png",EPL PREMIER LEAGUE 2026
 https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
@@ -81,8 +82,6 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/ts-eu-w1-n
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7sFq1Nq/cazetv-seeklogo.png",CAZE TV ᴴᴰ
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",WC MATCH RECAP
-https://stream.dekhoprime.live/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ffifa_world_cup%2F..%2Fslang%2Ffifa_world_cup_576%2Ffifa_world_cup_576.m3u8%3Fbitrate%3D1000000%26channel%3Dfifa_world_cup_576%26gp_id%3D&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZWtob3ByaW1lLXByb3h5IiwiaWF0IjoxNzg3NjY0MDkxLCJleHAiOjE3ODc5MjMyOTEsImp0aSI6IjFiOTljMmMzLTI2ZGYtNDM1ZS1hYjk5LTQxYjc5MmU4ZmY2ZiJ9.mIucmd7ytsg-ufyUu2c75BNZOcLc4qi__i0HhZPxtKo&ua=okhttp%2F5.1.0&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1787832041%3AKeyName%3Dprod_linear%3ASignature%3DrPzPcyXXryGMNTDMcPpb4x1mar5uBTp9JLNxIf5JNjwxfxc8jNUoAXMuUA9uyDoQ9_6pOUG1uQh0Dpo3IjGkCg&headers=%7B%22cookie%22%3A%22Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1787832041%3AKeyName%3Dprod_linear%3ASignature%3DrPzPcyXXryGMNTDMcPpb4x1mar5uBTp9JLNxIf5JNjwxfxc8jNUoAXMuUA9uyDoQ9_6pOUG1uQh0Dpo3IjGkCg%22%7D
 # ───────────  BANGLADESH───────────
 #EXTINF:-1 tvg-id="btv_shangshad" group-title="BANGLADESH" tvg-name="BTV Shangshad" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png",BTV Shangshad
 https://akash.sm-monirul.top/btv_shangshad.m3u8
