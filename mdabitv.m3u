@@ -78,6 +78,8 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/ts-eu-w1-n
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7sFq1Nq/cazetv-seeklogo.png",CAZE TV ᴴᴰ
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",WC MATCH RECAP
+https://stream.dekhoprime.live/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ffifa_world_cup%2F..%2Fslang%2Ffifa_world_cup_576%2Ffifa_world_cup_576.m3u8%3Fbitrate%3D1000000%26channel%3Dfifa_world_cup_576%26gp_id%3D&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZWtob3ByaW1lLXByb3h5IiwiaWF0IjoxNzg3NjY0MDkxLCJleHAiOjE3ODc5MjMyOTEsImp0aSI6IjFiOTljMmMzLTI2ZGYtNDM1ZS1hYjk5LTQxYjc5MmU4ZmY2ZiJ9.mIucmd7ytsg-ufyUu2c75BNZOcLc4qi__i0HhZPxtKo&ua=okhttp%2F5.1.0&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1787832041%3AKeyName%3Dprod_linear%3ASignature%3DrPzPcyXXryGMNTDMcPpb4x1mar5uBTp9JLNxIf5JNjwxfxc8jNUoAXMuUA9uyDoQ9_6pOUG1uQh0Dpo3IjGkCg&headers=%7B%22cookie%22%3A%22Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1787832041%3AKeyName%3Dprod_linear%3ASignature%3DrPzPcyXXryGMNTDMcPpb4x1mar5uBTp9JLNxIf5JNjwxfxc8jNUoAXMuUA9uyDoQ9_6pOUG1uQh0Dpo3IjGkCg%22%7D
 # ───────────  BANGLADESH───────────
 #EXTINF:-1 tvg-id="btv_shangshad" group-title="BANGLADESH" tvg-name="BTV Shangshad" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png",BTV Shangshad
 https://akash.sm-monirul.top/btv_shangshad.m3u8
@@ -187,6 +189,10 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6HPuuqZ9RhYrp9fjXh2mLU/m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/ry4QcVbh/20240822-231240.png",Green TV
 https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8
+
+#EXTINF:-1  group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/TYmSkqf3/20240822-230513.png",G TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8
+
 # ─────────── ISLAMIC ───────────
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/8gtmjZk7/Screenshot-2026-07-12-140826.jpg",Azan TV 
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
@@ -319,8 +325,8 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0Rrlt7ta1WceuKdbR2ZG2M/m3u8
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_masala&e=.m3u8
 
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co.com/XZBvc8n1/pngwing-com.png",HUM TV ᴴᴰ
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAwQIxlAQOIY-WYRxJUpChJc/m3u8
- 
+https://stream.dekhoprime.live/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fhum_tv%2F..%2Fslang%2Fhum_tv_576%2Fhum_tv_576.m3u8%3Fbitrate%3D1000000%26channel%3Dhum_tv_576%26gp_id%3D&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZWtob3ByaW1lLXByb3h5IiwiaWF0IjoxNzg3NjY0MDkxLCJleHAiOjE3ODc5MjMyOTEsImp0aSI6IjFiOTljMmMzLTI2ZGYtNDM1ZS1hYjk5LTQxYjc5MmU4ZmY2ZiJ9.mIucmd7ytsg-ufyUu2c75BNZOcLc4qi__i0HhZPxtKo&ua=Toffee+%28Linux%3BAndroid+14%29&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1787812212%3AKeyName%3Dprod_linear%3ASignature%3DZCKeAqs82O0leyoDDFDrw9jBcoEJ-BRAjQrtg9isWueMl1HsrZ_SgWSPoPqhAamwHafzIIee1oPNpR748xfJCw&headers=%7B%22cookie%22%3A%22Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1787812212%3AKeyName%3Dprod_linear%3ASignature%3DZCKeAqs82O0leyoDDFDrw9jBcoEJ-BRAjQrtg9isWueMl1HsrZ_SgWSPoPqhAamwHafzIIee1oPNpR748xfJCw%22%7D 
+
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png",ARY DIGITAL ᴴᴰ
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0v-9BtcZyEoU_QsCSQQF-o/m3u8
  
@@ -349,8 +355,8 @@ https://live.thebosstv.com:30443/dwlive/EXP-ENTERTAINMENT/chunks.m3u8
  
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/SNZkHpT/images-4.png",HUM SITARY ᴴᴰ
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_sitaray&e=.m3u8
- 
+https://stream.dekhoprime.live/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fhum_sitaray%2F..%2Fslang%2Fhum_sitaray_576%2Fhum_sitaray_576.m3u8%3Fbitrate%3D1000000%26channel%3Dhum_sitaray_576%26gp_id%3D&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZWtob3ByaW1lLXByb3h5IiwiaWF0IjoxNzg3NjY0MDkxLCJleHAiOjE3ODc5MjMyOTEsImp0aSI6IjFiOTljMmMzLTI2ZGYtNDM1ZS1hYjk5LTQxYjc5MmU4ZmY2ZiJ9.mIucmd7ytsg-ufyUu2c75BNZOcLc4qi__i0HhZPxtKo&ua=Toffee+%28Linux%3BAndroid+14%29&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1787812212%3AKeyName%3Dprod_linear%3ASignature%3DZCKeAqs82O0leyoDDFDrw9jBcoEJ-BRAjQrtg9isWueMl1HsrZ_SgWSPoPqhAamwHafzIIee1oPNpR748xfJCw&headers=%7B%22cookie%22%3A%22Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1787812212%3AKeyName%3Dprod_linear%3ASignature%3DZCKeAqs82O0leyoDDFDrw9jBcoEJ-BRAjQrtg9isWueMl1HsrZ_SgWSPoPqhAamwHafzIIee1oPNpR748xfJCw%22%7D
+
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/SKNtdvG/images-2-1.png",SAB TV ᴴᴰ
  
  
