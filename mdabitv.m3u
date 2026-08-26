@@ -84,32 +84,36 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/ts-eu-w1-n
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 # ───────────  BANGLADESH───────────
-#EXTINF:-1 tvg-id="btv_shangshad" group-title="BANGLADESH" tvg-name="BTV Shangshad" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png",BTV Shangshad
-https://akash.sm-monirul.top/btv_shangshad.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TXNCpCP/Btv-National.png",BTV
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/btv_national_hd/index.m3u8
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/btv_national/index.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9ea3bc79ad1fad76ae1ef2e1dd3c1b42_playmist_btv_world_400x400.jpg",BTV World
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/btv_world/index.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/b994ae24dd627fb8b680e5cd654d1e9c.jpg",BTV CTG
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/btv_ctg/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/r7W0ZbQHU9.png",SOMOY TV 
-https://akash.sm-monirul.top/somoy_tv.m3u8
- 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TXNCpCP/Btv-National.png",BTV
-https://akash.sm-monirul.top/btv.m3u8
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/somoy_tv/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/5X1JmFbF/Bangla-Vision.png",Bangla Vision
-https://akash.sm-monirul.top/bangla_vision.m3u8
- 
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/bangla_vision/index.m3u8
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/V0t9c7SS/Screenshot-2026-07-11-233309.jpg",ATN Bangla ᴴᴰ
-https://akash.sm-monirul.top/atn_news.m3u8
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/atn_bangla/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/H038J5LwdN.png", Channel I
-https://akash.sm-monirul.top/channel_i_hd.m3u8
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/channel_i/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png",Channel 1 4K
 https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/v65cfQ96/Channel-24.png",Channel 24 ᴴᴰ
-https://akash.sm-monirul.top/channel_24_hd.m3u8
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/channel_24/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/Xxrdnxkp/Channel9-HD.png",Channel 9 ᴴᴰ
-https://akash.sm-monirul.top/channel_9_hd.m3u8
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/channel_9/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TMKLMXs9/DBC-News.png",DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
@@ -118,7 +122,7 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/qLtLHv9m/pngegg-1.png",Independent TV
-https://akash.sm-monirul.top/independent_tv.m3u8
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/independent_tv/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/tMkKj7xK/Jamuna-Tv-logo-freekaj.jpg",Jamuna TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
@@ -146,10 +150,10 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/ofOLQDCLwk.png",Ananda TV 
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAwilXCDgrOTQ_gtCn7bKZJg/m3u8
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/ananda_tv/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/fVH9h8Tk/Desh-TV.png",Desh TV 
-https://akash.sm-monirul.top/desh_tv.m3u8
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/desh_tv/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/1_dUKmt1Oe.png",G-Series 
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
@@ -167,19 +171,20 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/rw8iAU9ZcB.jpg",Thikana TV 
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/thikana/index.m3u8
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/7T2-k2SePa.png",My TV   
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA9_Zt4kApyNO66aqYRLdbeU/m3u8
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/my_tv/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/JZnibxXLfK.png",RTV Live 
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/Q7Q7X64N/Global-TV.png",Global TV 
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3ZYaiin8fAxyCPYTttL4C8/m3u8 
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/global_tv/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/YQ8D9Wf0IT.png",Bangla TV 
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA_ASUbZ4J0MM8dmvxzsJVHw/m3u8
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/bangla_tv/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/rsDjtcFp/20240822_225424.png",Ekushey TV
 https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
