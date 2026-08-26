@@ -50,9 +50,10 @@ http://31.43.191.125:8080/live/20102023/123456789/243.ts
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3OYQnwjfxxIVHOtbhMbxP4/m3u8
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/3VtDX65/unnamed-1.png",PTV SPORTS ᴴᴰ
-http://172.19.17.230:8090/hls/ptvsportshd.m3u8
+http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99753.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/3VtDX65/unnamed-1.png",PTV SPORTS 
+http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99708.ts
 https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/ptv_sports/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png",Star Sports SL 1
@@ -315,6 +316,7 @@ https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8?nimbl
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA-apbFBPyhH5Vw4IeJ6WhF4/m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/vCdMrMPW/star-bharat-hd-in.png",STAR BHARAT ᴴᴰ
+http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/63484.ts
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0Rrlt7ta1WceuKdbR2ZG2M/m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="",
@@ -324,16 +326,18 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0Rrlt7ta1WceuKdbR2ZG2M/m3u8
 
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/68rW6rs/download-12-1.png",HUM TV MASALA ᴴᴰ
+http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99748.ts
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_masala&e=.m3u8
 
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co.com/XZBvc8n1/pngwing-com.png",HUM TV ᴴᴰ
 https://stream.dekhoprime.live/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fhum_tv%2F..%2Fslang%2Fhum_tv_576%2Fhum_tv_576.m3u8%3Fbitrate%3D1000000%26channel%3Dhum_tv_576%26gp_id%3D&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZWtob3ByaW1lLXByb3h5IiwiaWF0IjoxNzg3NjY0MDkxLCJleHAiOjE3ODc5MjMyOTEsImp0aSI6IjFiOTljMmMzLTI2ZGYtNDM1ZS1hYjk5LTQxYjc5MmU4ZmY2ZiJ9.mIucmd7ytsg-ufyUu2c75BNZOcLc4qi__i0HhZPxtKo&ua=Toffee+%28Linux%3BAndroid+14%29&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1787812212%3AKeyName%3Dprod_linear%3ASignature%3DZCKeAqs82O0leyoDDFDrw9jBcoEJ-BRAjQrtg9isWueMl1HsrZ_SgWSPoPqhAamwHafzIIee1oPNpR748xfJCw&headers=%7B%22cookie%22%3A%22Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1787812212%3AKeyName%3Dprod_linear%3ASignature%3DZCKeAqs82O0leyoDDFDrw9jBcoEJ-BRAjQrtg9isWueMl1HsrZ_SgWSPoPqhAamwHafzIIee1oPNpR748xfJCw%22%7D 
 
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Ary_Digital_Logo.png",ARY DIGITAL ᴴᴰ
+http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99662.ts
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0v-9BtcZyEoU_QsCSQQF-o/m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/MDWK1PH/unnamed-1.png",ARY ZINDAGI ᴴᴰ
- 
+http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99656.ts
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/srqSc5F/green-entertainment.png",GREEN ENTERTAINMENT ᴴᴰ
 https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v2a1/mono.m3u8
@@ -342,19 +346,19 @@ https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v2a1/mono.m3u8
 https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/2jnwMXj/unnamed-2.png",GEO KAHANI ᴴᴰ
- 
+http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99669.ts
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/XpVqYsZ/bol-entertainment-logo.png",BOL ENTERTAINMENT ᴴᴰ
- 
+http://172.19.17.230:8090/hls/ptvsportshd.m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/X21f3vV/sddefault.png",EXPRESS ENTERTAINMENT ᴴᴰ
 https://live.thebosstv.com:30443/dwlive/EXP-ENTERTAINMENT/chunks.m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/bP5cgHm/images.png",AAJ ENTERTAINMENT ᴴᴰ
- 
+http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99651.ts
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/rtGhXsC/images.png",PTV HOME ᴴᴰ
- 
+http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99700.ts
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/SNZkHpT/images-4.png",HUM SITARY ᴴᴰ
 https://stream.dekhoprime.live/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fhum_sitaray%2F..%2Fslang%2Fhum_sitaray_576%2Fhum_sitaray_576.m3u8%3Fbitrate%3D1000000%26channel%3Dhum_sitaray_576%26gp_id%3D&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZWtob3ByaW1lLXByb3h5IiwiaWF0IjoxNzg3NjY0MDkxLCJleHAiOjE3ODc5MjMyOTEsImp0aSI6IjFiOTljMmMzLTI2ZGYtNDM1ZS1hYjk5LTQxYjc5MmU4ZmY2ZiJ9.mIucmd7ytsg-ufyUu2c75BNZOcLc4qi__i0HhZPxtKo&ua=Toffee+%28Linux%3BAndroid+14%29&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1787812212%3AKeyName%3Dprod_linear%3ASignature%3DZCKeAqs82O0leyoDDFDrw9jBcoEJ-BRAjQrtg9isWueMl1HsrZ_SgWSPoPqhAamwHafzIIee1oPNpR748xfJCw&headers=%7B%22cookie%22%3A%22Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1787812212%3AKeyName%3Dprod_linear%3ASignature%3DZCKeAqs82O0leyoDDFDrw9jBcoEJ-BRAjQrtg9isWueMl1HsrZ_SgWSPoPqhAamwHafzIIee1oPNpR748xfJCw%22%7D
@@ -363,7 +367,7 @@ https://stream.dekhoprime.live/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2
  
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/9YQz9Vd/images-5.png",KHYBER TV ᴴᴰ
- 
+http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99658.ts
  
 # ─────────── INDIAN BANGLA ───────────
 
@@ -483,8 +487,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/VXK3CQz/b4u-music-in.png",B4U MUSIC ᴴᴰ
 http://103.175.73.12:8080/live/157/master.m3u8
  
-#EXTINF:-1 group-title="MUSIC" tvg-logo="",ARY MUSIC ᴴᴰ
- 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i1.sndcdn.com/avatars-000391064673-s81kqo-t240x240.jpg",ARY MUSIC ᴴᴰ
+http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99723.ts
  
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/NFKqPkBP/image.png",PTC MUSIC ᴴᴰ
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
