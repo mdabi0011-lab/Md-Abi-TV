@@ -95,7 +95,8 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1 tvg-id="fifa_world_cup" tvg-name="WC Match Recap" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="Sports",WC Match Recap
 https://sm-monirul.xyz/@monirul_Islam_SM/tof/play/fifa_world_cup.m3u8
 # ───────────  BANGLADESH───────────
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TXNCpCP/Btv-National.png",BTV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TXNCpCP/Btv-National.png",BTV ᴴᴰ
+https://akash-backup.sm-monirul-islam-rs.workers.dev/btv.m3u8
 https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/btv_national_hd/index.m3u8
 https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/btv_national/index.m3u8
 
