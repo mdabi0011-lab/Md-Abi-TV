@@ -1,4 +1,3 @@
-
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
@@ -11,18 +10,6 @@ https://videotourl.com/videos/1783932235156-e7d95931-d772-42a3-83f9-cc1f4ffc45dd
 
 # ───────────  SPORTS───────────
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023039/1787835120637186_eng_vs_pak_2ndtest_day1_landscape_thumb.jpg" group-title="Cricket", Day 1 - 2nd Test - 27 Aug 2026 | Pakistan Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/master.m3u8?hdnea=exp=1787862035~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dfbf0d2e5e62bf68d5a7601f4449226b7df07b54c5655ccd848bfaf661f3242d
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022993/1787767270935627_UCL_Phase_Draw_landscape_thumb.jpg" group-title="Football", League Phase Draw - 27 Aug 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Leag2708/ENG/master.m3u8?hdnea=exp=1787867439~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f66262567af603a36d6ee065079e0159e0b1ff61b9ddcc31cfdfa02072ce1e1e
-
-#EXTINF:-1 group-title="SPORTS"  tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664367962164_JPL_26_Pune-Peshwas-vs-Bengal-Indians_live_landscape_thumb.jpg" group-title="Cricket", Pune Peshwas vs Bengal Indians - 27 Aug 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/master.m3u8?hdnea=exp=1787856633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=829bc17eba5db7edc4b9e0ec3b2563e5f0159c59182a549920da4b27351a078d
-
-#EXTINF:-1 group-title="SPORTS"  tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808399496204_DP_World_Tour_Husqvarna_British_Masters_day1_landscape_thumb.jpg" group-title="Golf", Husqvarna British Masters - Day 1 - 27 Aug 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_DP_2708/ENG/master.m3u8?hdnea=exp=1787867447~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d9236f019c94af970a139d3051c6660af4b7ca7df8a6cdeaef2ef307071d4036
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7NWzWcbg/CITYPNG-COM-Premier-League-Official-Logo-2000x2000.png",EPL PREMIER LEAGUE 2026
 https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
 http://elitenova.net/live/PCVFYZ4/Y2FT6BT/1100811.ts
@@ -30,8 +17,8 @@ http://elitenova.net/live/PCVFYZ4/Y2FT6BT/1100811.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7NWzWcbg/CITYPNG-COM-Premier-League-Official-Logo-2000x2000.png",EPL PREMIER LEAGUE 2026
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/QFrFP1yS/T-Sports-Tv-logo-freekaj.png",TSPORTS
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/t_sports_hd/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/QFrFP1yS/T-Sports-Tv-logo-freekaj.png",TSPORTS HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/j9b673Ty/Screenshot-2026-08-13-151127.png",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?
@@ -56,7 +43,7 @@ http://172.19.17.34/live/ontest1/ontest1/116.ts
 http://31.43.191.125:8080/live/20102023/123456789/243.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/4RjgBg4N/Nice-Png-premier-league-logo-png-2133982.png",SKY SPORTS PREMIER LEAGUE
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3OYQnwjfxxIVHOtbhMbxP4/m3u8
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/3VtDX65/unnamed-1.png",PTV SPORTS ᴴᴰ
 http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99753.ts
@@ -96,33 +83,32 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 https://sm-monirul.xyz/@monirul_Islam_SM/tof/play/fifa_world_cup.m3u8
 # ───────────  BANGLADESH───────────
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TXNCpCP/Btv-National.png",BTV ᴴᴰ
-https://akash-backup.sm-monirul-islam-rs.workers.dev/btv.m3u8
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/btv_national_hd/index.m3u8
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/btv_national/index.m3u8
+https://tvsen6.aynaott.com/tV8mB2zP7rX4kL1w/index.m3u8
+
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9ea3bc79ad1fad76ae1ef2e1dd3c1b42_playmist_btv_world_400x400.jpg",BTV World
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/btv_world/index.m3u8
+https://tvsen6.aynaott.com/AQLYTPfXtjm5x7zj7AsM/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/b994ae24dd627fb8b680e5cd654d1e9c.jpg",BTV CTG
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/btv_ctg/index.m3u8
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/r7W0ZbQHU9.png",SOMOY TV 
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/somoy_tv/index.m3u8
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/5X1JmFbF/Bangla-Vision.png",Bangla Vision
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/bangla_vision/index.m3u8
+http://103.165.93.31:8095/banglaVision/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/V0t9c7SS/Screenshot-2026-07-11-233309.jpg",ATN Bangla ᴴᴰ
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/atn_bangla/index.m3u8
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/H038J5LwdN.png", Channel I
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/channel_i/index.m3u8
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png",Channel 1 4K
 https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/v65cfQ96/Channel-24.png",Channel 24 ᴴᴰ
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/channel_24/index.m3u8
+http://103.165.93.31:8095/channel24/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/Xxrdnxkp/Channel9-HD.png",Channel 9 ᴴᴰ
 https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/channel_9/index.m3u8
@@ -131,7 +117,7 @@ https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/channel_9/index.m3u8
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/DPZrfqzr/Ekattor-TV-HD.png",Ekattor TV ᴴᴰ
-https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/qLtLHv9m/pngegg-1.png",Independent TV
 https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/independent_tv/index.m3u8
@@ -143,12 +129,13 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/2ODX-FAGY4.png",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+http://103.165.93.31:8095/deepto/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/YrDVpDt/Ekhon-Tv.png",Ekhon TV 
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
  
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/mCwss66N/Asian-TV.png",Asian TV 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/mCwss66N/Asian-TV.png",Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8 
 https://stream.ottplus.live/live/asian_tv_abr/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
  
@@ -156,13 +143,13 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/D8KxMc9soN.png",N TV 
-https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+http://103.165.93.31:8095/ntv/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/qx2W3uKGsz.png",SA TV 
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/ofOLQDCLwk.png",Ananda TV 
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/ananda_tv/index.m3u8
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/fVH9h8Tk/Desh-TV.png",Desh TV 
 https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/desh_tv/index.m3u8
@@ -171,7 +158,7 @@ https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/desh_tv/index.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/Ndvm37Vr/Mohona-TV.png",Mohona TV 
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/mohona_tv/index.m3u8
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
@@ -187,19 +174,19 @@ https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/thikana/index.m3u8
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/7T2-k2SePa.png",My TV   
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/my_tv/index.m3u8
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/JZnibxXLfK.png",RTV Live 
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/Q7Q7X64N/Global-TV.png",Global TV 
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/global_tv/index.m3u8
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/YQ8D9Wf0IT.png",Bangla TV 
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/bangla_tv/index.m3u8
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/rsDjtcFp/20240822_225424.png",Ekushey TV
-https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/Tw4qxSqv/20240822-230126.png",Bijoy Tv
 https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
@@ -221,7 +208,7 @@ https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 http://tvsen7.aynascope.net/MadaniTV/index.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/xd2mZ3f/Screenshot-2026-07-12-141337.jpg",Madani Bangla Channel ᴴᴰ
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA2cX3U3SGuy6Cvr5qnBwyho/m3u8
+https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/3mgjJwy5/Screenshot-2026-07-12-211056.jpg",Peace TV Bangla 
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
@@ -285,6 +272,8 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1097664
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/BnPv7zt1/20240823_021725.png",Disney Channel ᴴᴰ
 http://66.102.126.10:8000/play/a013/index.m3u8
+http://88.212.15.19/live/test_disney/playlist.m3u8
+
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/BnPv7zt1/20240823_021725.png",Disney Channel 
 http://202.70.146.135:8000/play/a01q/index.m3u8
@@ -292,15 +281,14 @@ http://202.70.146.135:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png",Durunto
 http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/GtzBrs18/20240823_021125.png",Nick
-http://103.165.93.31:8095/nick/index.m3u8
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/GtzBrs18/20240823_021125.png",Nick Bangla
 https://xtreamcode.allinonereborn.workers.dev/stream/8423f929/1043.m3u8
 
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/y8DJ4dpx/20240823_021302.png",Sonic
-http://103.165.93.31:8095/sonic/index.m3u8
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/y8DJ4dpx/20240823_021302.png",Sonic Bangla
 http://live.balajibroadband.com:3500/live/1345.m3u8
 
 #EXTINF:-1 group-title="CARTOON"tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",Cartoon Network HD+
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8?nimblesessionid=688959804
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=372972
 
 #EXTINF:-1 group-title="CARTOON"tvg-logo="https://e7.pngegg.com/pngimages/237/807/png-clipart-crunchyroll-logo-icons-logos-emojis-iconic-brands.png",Crunchyroll Anime
@@ -321,7 +309,7 @@ https://sm-monirul.xyz/@monirul_Islam_SM/tof/play/zee_tv_hd.m3u8
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0LsoWjfdK2qN9piL6BK1KI/m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/TDYY54J0/colors-hd-in.png",COLORS ᴴᴰ 
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA2BpFIlg7SQHxrrmoENfKOA/m3u8
+http://202.70.146.135:8000/play/a00b/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/7xY5116n/sony-sab-hd-in.png",SONY SAB ᴴᴰ
 https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
@@ -333,7 +321,7 @@ https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=sony_entertainment&e=.m
 https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8?nimblesessionid=125067320
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/8tKFqby/and-tv-hd-in.png",& TV ᴴᴰ
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA-apbFBPyhH5Vw4IeJ6WhF4/m3u8
+http://202.70.146.135:8000/play/a06c/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/vCdMrMPW/star-bharat-hd-in.png",STAR BHARAT ᴴᴰ
 http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/63484.ts
@@ -346,7 +334,7 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0Rrlt7ta1WceuKdbR2ZG2M/m3u8
 
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/68rW6rs/download-12-1.png",HUM TV MASALA ᴴᴰ
-http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99748.ts
+http://38.101.217.46/HumMasala/index.m3u8
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_masala&e=.m3u8
 
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co.com/XZBvc8n1/pngwing-com.png",HUM TV ᴴᴰ
@@ -366,33 +354,35 @@ https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v2a1/mono.m3u8
 https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/2jnwMXj/unnamed-2.png",GEO KAHANI ᴴᴰ
-http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99669.ts
+https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/XpVqYsZ/bol-entertainment-logo.png",BOL ENTERTAINMENT ᴴᴰ
+https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
 http://172.19.17.230:8090/hls/ptvsportshd.m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/X21f3vV/sddefault.png",EXPRESS ENTERTAINMENT ᴴᴰ
-https://live.thebosstv.com:30443/dwlive/EXP-ENTERTAINMENT/chunks.m3u8
+https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/bP5cgHm/images.png",AAJ ENTERTAINMENT ᴴᴰ
-http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99651.ts
+https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/rtGhXsC/images.png",PTV HOME ᴴᴰ
 http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99700.ts
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/SNZkHpT/images-4.png",HUM SITARY ᴴᴰ
-https://stream.dekhoprime.live/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fhum_sitaray%2F..%2Fslang%2Fhum_sitaray_576%2Fhum_sitaray_576.m3u8%3Fbitrate%3D1000000%26channel%3Dhum_sitaray_576%26gp_id%3D&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZWtob3ByaW1lLXByb3h5IiwiaWF0IjoxNzg3NjY0MDkxLCJleHAiOjE3ODc5MjMyOTEsImp0aSI6IjFiOTljMmMzLTI2ZGYtNDM1ZS1hYjk5LTQxYjc5MmU4ZmY2ZiJ9.mIucmd7ytsg-ufyUu2c75BNZOcLc4qi__i0HhZPxtKo&ua=Toffee+%28Linux%3BAndroid+14%29&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1787812212%3AKeyName%3Dprod_linear%3ASignature%3DZCKeAqs82O0leyoDDFDrw9jBcoEJ-BRAjQrtg9isWueMl1HsrZ_SgWSPoPqhAamwHafzIIee1oPNpR748xfJCw&headers=%7B%22cookie%22%3A%22Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1787812212%3AKeyName%3Dprod_linear%3ASignature%3DZCKeAqs82O0leyoDDFDrw9jBcoEJ-BRAjQrtg9isWueMl1HsrZ_SgWSPoPqhAamwHafzIIee1oPNpR748xfJCw%22%7D
+http://38.101.217.46/HumSitaray/index.m3u8
 
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/SKNtdvG/images-2-1.png",SAB TV ᴴᴰ
- 
+https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/9YQz9Vd/images-5.png",KHYBER TV ᴴᴰ
 http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99658.ts
  
 # ─────────── INDIAN BANGLA ───────────
 
-#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/0pNytnTp/star-jalsha-hd-in.png",STAR JALSHA 
-http://103.165.93.31:8095/starJalsha/index.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/0pNytnTp/star-jalsha-hd-in.png",STAR JALSHA
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts 
+http://103.151.60.162:2122/play/a00w/index.m3u8?hls
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/0pNytnTp/star-jalsha-hd-in.png",STAR JALSHA ᴴᴰ
 https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
@@ -401,7 +391,6 @@ https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
  
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/zWVxyd4M/sony-aath-in.png",SONY AATH ᴴᴰ
-http://103.165.93.31:8095/sonyAath/index.m3u8
 https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/sony_aath/index.m3u8
 #https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
  
@@ -409,7 +398,6 @@ https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/sony_aath/index.m3u8
 http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/WvnnvxhN/Screenshot-2026-07-30-173811.jpg",ENTER10 BANGLA 
-http://103.165.93.31:8095/enter10Bangla/tracks-v1a1/mono.m3u8
  https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/Kc7BJRCy/20240823-020704.png",Sananda Tv
@@ -422,7 +410,6 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/hRZY4z61/pngwing-com.png",JALSHA MOVIES ᴴᴰ
-http://103.165.93.31:8095/jalshaMovies/index.m3u8
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
 http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155771&extension=ts&play_token=QIycCGPw7s
 
@@ -441,6 +428,7 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA9ptrC8VcTi-qLSjW5BFQgU/m3u8
 https://sm-monirul.xyz/@monirul_Islam_SM/tof/play/sonymax_2.m3u8
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/T3kMHhm/colors-cineplex-bollywood-in.png",COLORS CINEPLEX BOLLYWOODᴴᴰ
+http://202.70.146.135:8000/play/a058/index.m3u8
 http://live.balajibroadband.com:3500/live/1763.m3u8
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/nqPJHNvx/pngwing-com-1.png",ZEE CINEMA ᴴᴰ
@@ -527,6 +515,7 @@ https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xia
 
 # ─────────── DOCUMENTARY ───────────
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png",ANIMAL PLANET ᴴᴰ
+https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
  
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co.com/sdzkqS2R/toppng-com-national-geographic-logo-vector-400x400.png",NATIONAL GEOGRAPHIC
@@ -558,6 +547,7 @@ https://tvsen6.aynaott.com/natgeo/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png",TLC ᴴᴰ
 https://tvsen6.aynaott.com/tlc_hd/index.m3u8
+
 
 
 # ───────────QURAN-E-PAK ───────────
@@ -675,6 +665,9 @@ https://media.kbhub.online/OTT%20KB/Bachelor%20Point/112/S05E112.m3u8
 https://ftp.ctgfun.com/Others/Asian%20Movie/Demon%20Slayer-Kimetsu%20no%20Yaiba%20Infinity%20Castle%20(2025)%20Hindi%20English%20Japanese%20720p%20BluRay%20x264%20ESub%20%5BDDN%5D/Demon%20Slayer-Kimetsu%20no%20Yaiba%20Infinity%20Castle%20%282025%29%20Hindi%20English%20Japanese%20720p%20BluRay%20x264%20ESub%20%5BDDN%5D.mp4#
 
 ─────────── BOLLYWOOD MOVIES ───────────
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg",Mirzapur: The Movie
+https://flixhub.net/stream/movie/mirzapur-the-movie
+
 #EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="MOVIES" tvg-logo="https://image.tmdb.org/t/p/w500/AguX4gfbB7n1bZPk3HL5rkvabXe.jpg",Awarapan 2
 https://flixhub.net/stream/movie/awarapan-2
 
@@ -848,6 +841,37 @@ https://flixhub.net/stream/movie/khuda-haafiz-chapter-2-agni-pariksha
 
 #EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
 
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
 
 
 # ─────────── HOLLYWOOD MOVIES ───────────
@@ -878,6 +902,68 @@ https://flixhub.net/stream/movie/batman-begins
 #EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",Pirates of the Caribbean: Dead Man's Chest
 https://flixhub.net/stream/movie/pirates-of-the-caribbean-dead-mans-chest
 
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/h69UJOOKlrHcvhl5H2LY74N61DQ.jpg",Hitman
+https://flixhub.net/stream/movie/hitman
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",The Incredible Hulk
+https://flixhub.net/stream/movie/the-incredible-hulk
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",Iron Man
+https://flixhub.net/stream/movie/iron-man
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",The Dark Knight
+https://flixhub.net/stream/movie/the-dark-knight
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",Avatar
+https://flixhub.net/stream/movie/avatar
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",The Hobbit: An Unexpected Journey
+https://flixhub.net/stream/movie/the-hobbit-an-unexpected-journey
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",The Dark Knight Rises
+https://flixhub.net/stream/movie/the-dark-knight-rises
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",Avengers: Age of Ultron
+https://flixhub.net/stream/movie/avengers-age-of-ultron
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",The Revenant
+https://flixhub.net/stream/movie/the-revenant
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",Batman v Superman: Dawn of Justice
+https://flixhub.net/stream/movie/batman-v-superman-dawn-of-justice
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",Captain Marvel
+https://flixhub.net/stream/movie/captain-marvel
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",Jurassic World: Fallen Kingdom
+https://flixhub.net/stream/movie/jurassic-world-fallen-kingdom
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",Avengers: Infinity War
+https://flixhub.net/stream/movie/avengers-infinity-war
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",Avengers: Endgame
+https://flixhub.net/stream/movie/avengers-endgame
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",Spider-Man: Far From Home
+https://flixhub.net/stream/movie/spider-man-far-from-home
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",Spider-Man: Homecoming
+https://flixhub.net/stream/movie/spider-man-homecoming
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/dGjoPttcbKR5VWg1jQuNFB247KL.jpg",The Amazing Spider-Man 2
+https://flixhub.net/stream/movie/the-amazing-spider-man-2
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",The Amazing Spider-Man
+https://flixhub.net/stream/movie/the-amazing-spider-man
+
 #EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",Spider-Man 3
 https://flixhub.net/stream/movie/spider-man-3
 
@@ -890,6 +976,186 @@ https://flixhub.net/stream/movie/moana-1
 #EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/moejGxR2haap29d9NQ7qe8x4eGj.jpg",Supergirl
 https://flixhub.net/stream/movie/supergirl
 
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",Iron Man 2
+https://flixhub.net/stream/movie/iron-man-2
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/xEoBT6lYfQNpSpTm8gJMTrQytiw.jpg",Ghost Rider: Spirit of Vengeance
+https://flixhub.net/stream/movie/ghost-rider-spirit-of-vengeance
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",Thor
+https://flixhub.net/stream/movie/thor
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",Pirates of the Caribbean: On Stranger Tides
+https://flixhub.net/stream/movie/pirates-of-the-caribbean-on-stranger-tides
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",Captain America: The First Avenger
+https://flixhub.net/stream/movie/captain-america-the-first-avenger
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/uFm2vnp9LhHx5MNo1Ego6O3vUhl.jpg",Journey 2: The Mysterious Island
+https://flixhub.net/stream/movie/journey-2-the-mysterious-island
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg",The Dictator
+https://flixhub.net/stream/movie/the-dictator
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",The Avengers
+https://flixhub.net/stream/movie/the-avengers
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",Man of Steel
+https://flixhub.net/stream/movie/man-of-steel/hls/Man.of.Steel.2013.1080p.BluRay.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mp4
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg",The Conjuring
+https://flixhub.net/stream/movie/the-conjuring
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",Thor: The Dark World
+https://flixhub.net/stream/movie/thor-the-dark-world
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",Iron Man 3
+https://flixhub.net/stream/movie/iron-man-3
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",The Hobbit: The Desolation of Smaug
+https://flixhub.net/stream/movie/the-hobbit-the-desolation-of-smaug
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg",Pacific Rim
+https://flixhub.net/stream/movie/pacific-rim
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",The Wolf of Wall Street
+https://flixhub.net/stream/movie/the-wolf-of-wall-street
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/ik8PugpL41s137RAWEGTAWu0dPo.jpg",Maleficent
+https://flixhub.net/stream/movie/maleficent
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",Fury
+https://flixhub.net/stream/movie/fury
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",Gone Girl
+https://flixhub.net/stream/movie/gone-girl
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",X-Men: Days of Future Past
+https://flixhub.net/stream/movie/x-men-days-of-future-past
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",Captain America: The Winter Soldier
+https://flixhub.net/stream/movie/captain-america-the-winter-soldier
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/wYDdWN1McB1Sio4z1dPSkb40Z78.jpg",300: Rise of an Empire
+https://flixhub.net/stream/movie/300-rise-of-an-empire
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",Edge of Tomorrow
+https://flixhub.net/stream/movie/edge-of-tomorrow
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",Lucy
+https://flixhub.net/stream/movie/lucy
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg",The Hobbit: The Battle of the Five Armies
+https://flixhub.net/stream/movie/the-hobbit-the-battle-of-the-five-armies
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/i3JqPtiJWnidaif3UA2K2Eng0hp.jpg",Transcendence
+https://flixhub.net/stream/movie/transcendence
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/1lkp87orcl6IjrdJJTJPnY2gEoc.jpg",The Road Within
+https://flixhub.net/stream/movie/the-road-within
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",The Hunger Games: Mockingjay - Part 1
+https://flixhub.net/stream/movie/the-hunger-games-mockingjay-part-1
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",John Wick
+https://flixhub.net/stream/movie/john-wick
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",Interstellar
+https://flixhub.net/stream/movie/interstellar
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",Ant-Man
+https://flixhub.net/stream/movie/ant-man
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/mYw7ZyejqSCPFlrT2jHZOESZDU3.jpg",Maze Runner: The Scorch Trials
+https://flixhub.net/stream/movie/maze-runner-the-scorch-trials
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/3nFnrivNgipSKZ8LZJJbRSlAcTR.jpg",Hotel Transylvania 2
+https://flixhub.net/stream/movie/hotel-transylvania-2
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",Doctor Strange
+https://flixhub.net/stream/movie/doctor-strange
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",Passengers
+https://flixhub.net/stream/movie/passengers
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",X-Men: Apocalypse
+https://flixhub.net/stream/movie/x-men-apocalypse
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",Captain America: Civil War
+https://flixhub.net/stream/movie/captain-america-civil-war
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",The Jungle Book
+https://flixhub.net/stream/movie/the-jungle-book
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/xA7N41glw17MBQtcWSm2eBlBRuG.jpg",Jason Bourne
+https://flixhub.net/stream/movie/jason-bourne
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",Zootopia
+https://flixhub.net/stream/movie/zootopia
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",Finding Dory
+https://flixhub.net/stream/movie/finding-dory
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",Jumanji: Welcome to the Jungle
+https://flixhub.net/stream/movie/jumanji-welcome-to-the-jungle
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",Guardians of the Galaxy Vol. 2
+https://flixhub.net/stream/movie/guardians-of-the-galaxy-vol-2
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",Blade Runner 2049
+https://flixhub.net/stream/movie/blade-runner-2049
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg",Jungle
+https://flixhub.net/stream/movie/jungle
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",Thor: Ragnarok
+https://flixhub.net/stream/movie/thor-ragnarok
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/6lAPOAFYFWIO3SQRemEY2wInQMC.jpg",Pirates of the Caribbean: Dead Men Tell No Tales
+https://flixhub.net/stream/movie/pirates-of-the-caribbean-dead-men-tell-no-tales
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/cFQEO687n1K6umXbInzocxcnAQz.jpg",Ant-Man and the Wasp
+https://flixhub.net/stream/movie/ant-man-and-the-wasp
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",Aquaman
+https://flixhub.net/stream/movie/aquaman
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg",The Meg
+https://flixhub.net/stream/movie/the-meg
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",Annihilation
+https://flixhub.net/stream/movie/annihilation
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/lzE5BwGQea1nek7TPXUuC5AZ6rq.jpg",Hotel Transylvania 3: Summer Vacation
+https://flixhub.net/stream/movie/hotel-transylvania-3-summer-vacation
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",Jumanji: The Next Level
+https://flixhub.net/stream/movie/jumanji-the-next-level
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/cCTJPelKGLhALq3r51A9uMonxKj.jpg",Dark Phoenix
+https://flixhub.net/stream/movie/dark-phoenix
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/mzOHg7Q5q9yUmY0b9Esu8Qe6Nnm.jpg",Godzilla: King of the Monsters
+https://flixhub.net/stream/movie/godzilla-king-of-the-monsters
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",Once Upon a Time... in Hollywood
+https://flixhub.net/stream/movie/once-upon-a-time-in-hollywood
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",Frozen II
+https://flixhub.net/stream/movie/frozen-ii
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",John Wick: Chapter 3 - Parabellum
+https://flixhub.net/stream/movie/john-wick-chapter-3-parabellum
+
+#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/kjMbDciooTbJPofVXgAoFjfX8Of.jpg",Greyhound
+https://flixhub.net/stream/movie/greyhound
+
 #EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
 
 #EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
@@ -901,37 +1167,3 @@ https://flixhub.net/stream/movie/supergirl
 #EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
 
 #EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
-
-#EXTINF:-1 group-title="HOLLYWOOD MOVIES" tvg-name="" tvg-logo="",
-
-
-
-
-
-
