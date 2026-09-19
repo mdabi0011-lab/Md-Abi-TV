@@ -313,7 +313,10 @@ https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/5gxQZ4pL/sony-entertainment-television-hd-in.png",SONY TV ᴴᴰ
 https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=sony_entertainment&e=.m3u8%5D(https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=sony_entertainment&e=.m3u8
- 
+
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/5gxQZ4pL/sony-entertainment-television-hd-in.png",SONY Entertainment Television
+http://38.96.178.205/SONYHD/index.m3u8
+
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/qSZ3kZf/sony-sab-in.png",SONY SAB  
 
 
