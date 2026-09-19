@@ -295,6 +295,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/62.m3u8
 http://202.70.146.135:8000/play/a009/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/XfYvg0zh/star-plus-hd-in.png",STAR PLUS ᴴᴰ
+http://41.205.93.154/STAR-PLUS/index.m3u8
 http://66.102.126.10:8000/play/a008/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/bg4B0njr/zee-tv-hd-in.png",ZEE TV ᴴᴰ
@@ -373,6 +374,7 @@ http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99658.ts
 # ─────────── INDIAN BANGLA ───────────
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/0pNytnTp/star-jalsha-hd-in.png",STAR JALSHA
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts 
 http://103.151.60.162:2122/play/a00w/index.m3u8?hls
 
@@ -437,7 +439,6 @@ https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
  
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/YFF5vHv7/star-gold-hd-in.png",STAR GOLD ᴴᴰ
-http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
 http://66.102.126.10:8000/play/a00f/index.m3u8
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",ZEE ANMOL CINEMA ᴴᴰ
@@ -477,6 +478,7 @@ http://66.102.126.10:8000/play/a020/index.m3u8
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 https://cdn.devm3u.top/server1/goldmines.m3u8
 
 
