@@ -52,8 +52,11 @@ http://172.19.17.34/live/ontest1/ontest1/116.ts
 http://31.43.191.125:8080/live/20102023/123456789/243.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/4RjgBg4N/Nice-Png-premier-league-logo-png-2133982.png",SKY SPORTS PREMIER LEAGUE
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=http
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/39sPLmXZ/sky-sport-football-it.png",SKY SPORTS FOOTBAll
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8
- 
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/3VtDX65/unnamed-1.png",PTV SPORTS ᴴᴰ
 https://flussonic.defineatoz.com/PTV/index.m3u8
 
@@ -75,6 +78,7 @@ https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?
 
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/Xx9R016T/Real-Madrid-CF.jpg",REAL MADRID 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
@@ -85,6 +89,9 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/ts-eu-w1-n
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 # ───────────  BANGLADESH───────────
+#EXTINF:-1 tvg-id="btvhd" tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" group-title="BANGLADESH",BTV.HD
+http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TXNCpCP/Btv-National.png",Sangsadᴴᴰ
 http://livetv.akr4m.com:8080/bdtv/restrem/32.m3u8
 
@@ -186,6 +193,9 @@ https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/YQ8D9Wf0IT.png",Bangla TV 
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Star_News_Bangladesh_Old_Logo_Horizontal.svg/revision/latest/scale-to-width-down/340?cb=20260202200847",Star News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/rsDjtcFp/20240822_225424.png",Ekushey TV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 
@@ -197,6 +207,9 @@ https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/ry4QcVbh/20240822-231240.png",Green TV
 https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nexus-tv.png" group-title="BANGLADESH",Nexus TV
+https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
 #EXTINF:-1  group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/TYmSkqf3/20240822-230513.png",G TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8
@@ -343,6 +356,7 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_masala&e=.m3u8
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
 
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Ary_Digital_Logo.png",ARY DIGITAL ᴴᴰ
+https://cdn4.mjunoon.tv:8087/streamtest/84M/chunks.m3u8
 http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99662.ts
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0v-9BtcZyEoU_QsCSQQF-o/m3u8
  
