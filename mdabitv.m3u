@@ -78,6 +78,8 @@ https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?
 
+#EXTINF:-1 tvg-id="local.euro-sports-hd" tvg-name="Euro Sports HD" tvg-logo="https://i.ibb.co.com/chZrpyQW/eurosport-in.png" tvg-chno="648" group-title="SPORTS",Euro Sports HD
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/Xx9R016T/Real-Madrid-CF.jpg",REAL MADRID 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
@@ -174,7 +176,7 @@ https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/B1Dn0E5UKs.png",Movie Bangla 
-
+http://alvetv.com/moviebanglatv/8080/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/sptqqqj9/Boishakhi-TV.png",Boishakhi TV 
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
@@ -207,6 +209,7 @@ https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/ry4QcVbh/20240822-231240.png",Green TV
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/index.m3u8
 https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nexus-tv.png" group-title="BANGLADESH",Nexus TV
