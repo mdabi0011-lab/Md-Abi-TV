@@ -462,6 +462,7 @@ https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
  
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/YFF5vHv7/star-gold-hd-in.png",STAR GOLD ᴴᴰ
+http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
 http://66.102.126.10:8000/play/a00f/index.m3u8
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",ZEE ANMOL CINEMA ᴴᴰ
