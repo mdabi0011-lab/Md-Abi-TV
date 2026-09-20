@@ -9,6 +9,8 @@
 https://videotourl.com/videos/1783932235156-e7d95931-d772-42a3-83f9-cc1f4ffc45dd.mp4
 
 # ───────────  SPORTS───────────
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://nowzyplus.online/upload/EPL/images%20(3).jpg",LALIGA
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/QFrFP1yS/T-Sports-Tv-logo-freekaj.png",TSPORTS HD
 http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
