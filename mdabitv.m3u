@@ -68,6 +68,9 @@ https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bRy8kd4C/Ten-Sports-Logo-removebg-preview.png",Ten Sportsᴴᴰ
+https://cdn4.mjunoon.tv:8087/streamtest/157-3M/chunks.m3u8
+
 #EXTINF:-1 tvg-id="local.euro-sports-hd" tvg-name="Euro Sports HD" tvg-logo="https://i.ibb.co.com/chZrpyQW/eurosport-in.png" tvg-chno="648" group-title="SPORTS",Euro Sports HD
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
