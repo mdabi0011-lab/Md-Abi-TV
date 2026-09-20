@@ -486,6 +486,9 @@ http://66.102.126.10:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO 2 ᴴᴰ
 
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Wvq6tSZz/sony-movies-br.png",SONY MOVIES
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 https://cdn.devm3u.top/server1/goldmines.m3u8
@@ -642,7 +645,7 @@ https://tvsen6.aynaott.com/tlc_hd/index.m3u8
 
 # ─────────── LATEST MOVIES & TV SERIES ───────────
 #EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="LATEST MOVIES & TV SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSBE52IVDp6Pf6RWTSUOx6bX5kl.jpg",Toxic: A Fairy Tale for Grown-ups (2026)
-https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%20720p%20HC-ESub.mkv
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Toxic%20(2026)%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
 
 #EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="LATEST MOVIES & TV SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWM5NWY5NGQtNWMwZC00NjgzLTk2ZWQtODQyYzhiNGM0ODUyXkEyXkFqcGc@._V1_.jpg",Malik
 https://fmftp.net/data/disk-1/movies/indianbangla/new/Malik%20(2026)/Malik.mkv
