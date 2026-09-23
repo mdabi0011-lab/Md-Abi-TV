@@ -257,6 +257,9 @@ https://tv8.akashgo.workers.dev/cdn/live/slang/islamic_tv_160/islamic_tv_160.m3u
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://iqra.tv/wp-content/uploads/2022/07/Iqra-Logo-PNG.jpg",Iqra Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://e7.pngegg.com/pngimages/402/999/png-clipart-iqraa-television-channel-saudi-arabia-live-television-iqra-television-text.png",Iqra TV
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/Nd5ZH5yn/Screenshot-2026-08-10-150418.png",هزاع البلوشي  Hazza Al Balushi
 http://iptvnow.nl/live/e411b7855d/9b88760006cb/2021725.ts
  
