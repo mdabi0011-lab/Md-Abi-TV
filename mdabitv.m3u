@@ -289,6 +289,7 @@ http://88.212.15.19/live/test_disney/playlist.m3u8
 http://202.70.146.135:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png",Durunto
+https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/GtzBrs18/20240823_021125.png",Nick Bangla
@@ -420,7 +421,10 @@ https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/WvnnvxhN/Screenshot-2026-07-30-173811.jpg",ENTER10 BANGLA 
- https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/60/Sun_Bangla_HD_logo.png/revision/latest?cb",SUN BANGLA
+https://box.bbaria.net/SUN_BANGLA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/Kc7BJRCy/20240823-020704.png",Sananda Tv
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
