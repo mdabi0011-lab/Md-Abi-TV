@@ -191,6 +191,9 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/Q7Q7X64N/Global-TV.png",Global TV 
 https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Channel_S_Bangladesh_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",Channel S
+https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/YQ8D9Wf0IT.png",Bangla TV 
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
