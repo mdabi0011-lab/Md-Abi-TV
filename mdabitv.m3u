@@ -251,7 +251,7 @@ https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
  
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/60h7qGyC/pngegg.png",Saudia Sunnahᴴᴰ
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+https://filex.me:8443/live/3114654477/5787654467/247145.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://assets-prod.services.toffeelive.com/jehEA54BIxFjn23xAmdw/posters/2c276556-cbcd-4467-b627-4394bb20f250.png",Islam TV
 https://tv8.akashgo.workers.dev/cdn/live/slang/islamic_tv_160/islamic_tv_160.m3u8?bitrate=512000&channel=islamic_tv_160&gp_id=
@@ -421,6 +421,51 @@ http://38.101.217.46/HumSitaray/index.m3u8
 
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/SKNtdvG/images-2-1.png",SAB TV ᴴᴰ
 https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_24_pk.png" group-title="PAKISTANI",24 NEWS HD
+https://filex.me:8443/live/3114654477/5787654467/52070.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/92-news-pk.png" group-title="PAKISTANI",92 NEWS HD
+https://filex.me:8443/live/3114654477/5787654467/52035.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aaj_tv_news.png" group-title="PAKISTANI",AAJ NEWS HD
+https://filex.me:8443/live/3114654477/5787654467/52044.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png" group-title="PAKISTANI",ARY NEWS HD
+https://filex.me:8443/live/3114654477/5787654467/52043.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/city_41_tv.png" group-title="PAKISTANI",CITY 41 NEWS HD
+https://filex.me:8443/live/3114654477/5787654467/52051.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/city_42_tv.png" group-title="PAKISTANI",CITY 42 NEWS HD
+https://filex.me:8443/live/3114654477/5787654467/52052.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dawn_news_pk.png" group-title="PAKISTANI",DAWN NEWS HD
+https://filex.me:8443/live/3114654477/5787654467/52061.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/express-news-pk.png" group-title="PAKISTANI",Express NEWS HD
+https://filex.me:8443/live/3114654477/5787654467/52039.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_me.png" group-title="PAKISTANI",GEO NEWS HD
+https://filex.me:8443/live/3114654477/5787654467/52041.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-news-pk.png" group-title="PAKISTANI",HUM NEWS HD
+https://filex.me:8443/live/3114654477/5787654467/71178.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro1_news_pk.png" group-title="PAKISTANI",Metro 1 NEWS HD
+https://filex.me:8443/live/3114654477/5787654467/79852.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-one-pk.png" group-title="PAKISTANI",NEWS ONE HD
+https://filex.me:8443/live/3114654477/5787654467/52068.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_news_pk.png" group-title="PAKISTANI",PTV NEWS HD
+https://filex.me:8443/live/3114654477/5787654467/52073.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/public-news-pk.png" group-title="PAKISTANI",Public NEWS HD
+https://filex.me:8443/live/3114654477/5787654467/52226.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rohi-tv-pk.png" group-title="PAKISTANI",ROHI TV HD
+https://filex.me:8443/live/3114654477/5787654467/52075.m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/9YQz9Vd/images-5.png",KHYBER TV ᴴᴰ
 http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99658.ts
