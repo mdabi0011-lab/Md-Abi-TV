@@ -291,6 +291,7 @@ https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co.com/JjpPKqcp/hungama-in.png",HUNGAMA 
+http://bosstv.click:8080/live/18012689/77561563/92417.ts
 http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=1097664&extension=m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co.com/JjpPKqcp/hungama-in.png",HUNGAMA 
@@ -315,11 +316,11 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb563f186577659098c93678d5f462ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5cae6852db80148b6f4adafb8c2360625f5c98435ee3b24aa0a9e45f4cd06aa0ac4e4f917b58e68314c8c915e888d546cc128523f017cec6f9dd8516e0bcab538b6798544338701da34d18f9c670b9c09365359d3e7d084e15ae949af04a3391540372ccbf9aef2baf488ebe2c8f3663e0408019d079ca4aba19abe479a5af90d6560e6cf793153271e0ad8ba2cf181ff126f7abe2d8335b9cf51f770e894ed030243595b29a41d78d45d8e66dd5f45a1c3ec1834cd4c8e1d4a1e3db38e94fa0f0fd96394d59704453d62fc5b4599b788d36f8b4504b3a6a4ba29d59c1fca97d3870408b851e99532cb0d58f8cc81d79ad441e49e374d64b0f0f9d60349c84ab0c35890a3e71081aaeefc54fcde0c19a4e55cf1d/148/426x240_411840/index.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/GtzBrs18/20240823_021125.png",Nick Bangla
-http://vpsbd.cloudbd.one/newr/NICK.m3u8
+http://bosstv.click:8080/live/18012689/77561563/92414.ts
 http://live.balajibroadband.com:3500/live/1341.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/y8DJ4dpx/20240823_021302.png",Sonic Bangla
-http://vpsbd.cloudbd.one/newr/SONIC.m3u8
+http://bosstv.click:8080/live/18012689/77561563/92412.ts
 http://live.balajibroadband.com:3500/live/1345.m3u8
 
 #EXTINF:-1 group-title="CARTOON"tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",Cartoon Network HD+
@@ -389,17 +390,17 @@ http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99662.ts
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0v-9BtcZyEoU_QsCSQQF-o/m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/MDWK1PH/unnamed-1.png",ARY ZINDAGI ᴴᴰ
-http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99656.ts
- 
+http://bosstv.click:8080/live/18012689/77561563/86120.ts
+
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/srqSc5F/green-entertainment.png",GREEN ENTERTAINMENT ᴴᴰ
-https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v2a1/mono.m3u8
- 
+http://bosstv.click:8080/live/18012689/77561563/86118.ts
+
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/gvymhdC/unnamed.png",GEO ENTERTAINMENT ᴴᴰ
 https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/2jnwMXj/unnamed-2.png",GEO KAHANI ᴴᴰ
-https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
- 
+http://bosstv.click:8080/live/18012689/77561563/86121.ts
+
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/XpVqYsZ/bol-entertainment-logo.png",BOL ENTERTAINMENT ᴴᴰ
 https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
 http://172.19.17.230:8090/hls/ptvsportshd.m3u8
@@ -411,8 +412,8 @@ https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
 https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
  
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/rtGhXsC/images.png",PTV HOME ᴴᴰ
-http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99700.ts
- 
+http://bosstv.click:8080/live/18012689/77561563/86130.ts
+
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.ibb.co/SNZkHpT/images-4.png",HUM SITARY ᴴᴰ
 http://38.101.217.46/HumSitaray/index.m3u8
 
