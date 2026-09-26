@@ -10,29 +10,7 @@ https://videotourl.com/videos/1783932235156-e7d95931-d772-42a3-83f9-cc1f4ffc45dd
 
 # ───────────  SPORTS───────────
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QFwv0wCp/cropped-circle-image.png" group-title="SPORTS",FIFA ASEAN CUP 2026
-https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|Referer=https://iscreen.com.bd/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QFwv0wCp/cropped-circle-image.png" group-title="SPORTS",FIFA ASEAN CUP 2026
-https://tvx.kbhub.online/Live-Event-Sports/4-Bangladesh-vs-Malaysia.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QFwv0wCp/cropped-circle-image.png" group-title="SPORTS",FIFA ASEAN CUP 2026
-https://tvx.kbhub.online/Live-Event-Sports/2-Bangladesh-vs-Malaysia.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://m.vidio.com/ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
-https://tvratu.my.id/vid/index.mpd?id=204&type=dash
+https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001790325863-0-0-de137f65703461bd9af47550dc885b86
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QFwv0wCp/cropped-circle-image.png" group-title="SPORTS",FIFA ASEAN CUP 2026
 https://tvx.kbhub.online/Live-Event-Sports/1-Bangladesh-vs-Malaysia.m3u8
@@ -50,6 +28,7 @@ http://speedmel.net/live/T3ZT2SM3960ZY8V/umae6FQlwQ/200924.ts
 http://slatrock.net/live/A3XA1U3X56KH19A/8sB4IOufst/200924.ts 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/QFrFP1yS/T-Sports-Tv-logo-freekaj.png",TSPORTS HD
+https://robitv.com/rn/http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 #https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=dsgdfgsdfgasf
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
