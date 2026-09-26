@@ -13,6 +13,7 @@ https://videotourl.com/videos/1783932235156-e7d95931-d772-42a3-83f9-cc1f4ffc45dd
 https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001790325863-0-0-de137f65703461bd9af47550dc885b86
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/QFwv0wCp/cropped-circle-image.png",FIFA ASEAN CUP 2026
+https://playztv-apps.pages.dev/ptv-sports/index.m3u8#skym3u.dev
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://nowzyplus.online/upload/EPL/images%20(3).jpg",LALIGA
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
@@ -362,9 +363,10 @@ http://202.70.146.135:8000/play/a00b/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/5gxQZ4pL/sony-entertainment-television-hd-in.png",SONY TV ᴴᴰ
-https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=sony_entertainment&e=.m3u8%5D(https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=sony_entertainment&e=.m3u8
+http://202.70.146.135:8000/play/a005/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/5gxQZ4pL/sony-entertainment-television-hd-in.png",SONY Entertainment Television
+https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
 http://38.96.178.205/SONYHD/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/qSZ3kZf/sony-sab-in.png",SONY SAB  
@@ -548,7 +550,7 @@ https://stream.ottplus.live/live/zee_action_abr/index.m3u8
  
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/YFF5vHv7/star-gold-hd-in.png",STAR GOLD ᴴᴰ
-http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
+#http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
 http://66.102.126.10:8000/play/a00f/index.m3u8
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",ZEE ANMOL CINEMA ᴴᴰ
@@ -644,9 +646,9 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA_Ozru7NOfp9m14vmxiQpqE/m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/zvPTkPjH/IJH47f-J.png",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
  
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png",DISCOVERYᴴᴰ
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA1z3cjwECSZ5PLTbs0eVnNI/m3u8
- 
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png",DISCOVERY Banglaᴴᴰ
+http://202.70.146.135:8000/play/a05z/index.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",DISCOVERY | WORLD ᴴᴰ
  
  
