@@ -36,6 +36,7 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/DggdzpY7/pngegg.png",Star Sports 1 Hindi HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/DggdzpY7/pngegg.png",Star Sports 1  FHD
@@ -43,7 +44,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
 http://tvsen7.aynascope.net/sspts1/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/DggdzpY7/pngegg.png",Star Sports 2 HD
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/HLkX5dw5/channels4-profile.jpg",UNITE8 SPORTS 1 HD
 http://speedmel.net:80/T3ZT2SM3960ZY8V/umae6FQlwQ/34676
@@ -62,7 +63,6 @@ http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8
 https://flussonic.defineatoz.com/PTV/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png",Star Sports SL 1ᴴᴰ
-http://swift5gnew.site/live/DbJjgwtspJ/7CwX2l6DsL/56363.ts
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png",Star Sports SL 2
