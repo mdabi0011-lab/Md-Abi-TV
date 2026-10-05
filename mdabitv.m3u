@@ -47,6 +47,7 @@ http://tvsen7.aynascope.net/sspts1/index.m3u8
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/HLkX5dw5/channels4-profile.jpg",UNITE8 SPORTS 1 HD
+http://103.114.11.37:8081/Unite8-sports-1/index.m3u8
 http://speedmel.net:80/T3ZT2SM3960ZY8V/umae6FQlwQ/34676
 http://172.19.17.34/live/ontest1/ontest1/116.ts
 
