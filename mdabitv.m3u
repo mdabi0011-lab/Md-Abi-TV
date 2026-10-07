@@ -354,6 +354,9 @@ http://41.205.93.154/STAR-PLUS/index.m3u8
 http://66.102.126.10:8000/play/a008/index.m3u8
 http://202.70.146.135:8000/play/a009/index.m3u8
 
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/XfYvg0zh/star-plus-hd-in.png",STAR PLUS ᴴᴰ
+http://103.114.11.37:8081/Star-Plus-HD/index.m3u8
+
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/bg4B0njr/zee-tv-hd-in.png",ZEE TV ᴴᴰ
 https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
  
@@ -596,6 +599,9 @@ http://66.102.126.10:8000/play/a020/index.m3u8
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO 2 ᴴᴰ
 
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Faca5fb4a-3f31-4527-82d4-80b718821f1f%2FShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png",Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Wvq6tSZz/sony-movies-br.png",SONY MOVIES
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
