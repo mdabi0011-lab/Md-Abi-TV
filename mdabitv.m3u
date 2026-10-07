@@ -244,6 +244,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
  
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/mFMwgRbw/Screenshot-2026-07-12-211430.jpg",Saudi Quran SD
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8
 https://filex.me:8443/live/3114654477/5787654467/311.m3u8
 https://tv8.akashgo.workers.dev/cdn/live/slang/saudi_quran_160/saudi_quran_160.m3u8?bitrate=512000&channel=saudi_quran_160&gp_id=
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/saudi_quran-avc1_600000=2-mp4a_145600_ara=3.m3u8
@@ -259,6 +260,7 @@ https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
  
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/60h7qGyC/pngegg.png",Saudia Sunnahᴴᴰ
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 https://filex.me:8443/live/3114654477/5787654467/247145.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://assets-prod.services.toffeelive.com/jehEA54BIxFjn23xAmdw/posters/2c276556-cbcd-4467-b627-4394bb20f250.png",Islam TV
@@ -348,13 +350,9 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 # ─────────── INDIAN ───────────
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/XfYvg0zh/star-plus-hd-in.png",STAR PLUS ᴴᴰ
 http://livetv.akr4m.com:8080/bdtv/restrem/62.m3u8
-
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/XfYvg0zh/star-plus-hd-in.png",STAR PLUS ᴴᴰ
-http://202.70.146.135:8000/play/a009/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/XfYvg0zh/star-plus-hd-in.png",STAR PLUS ᴴᴰ
 http://41.205.93.154/STAR-PLUS/index.m3u8
 http://66.102.126.10:8000/play/a008/index.m3u8
+http://202.70.146.135:8000/play/a009/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/bg4B0njr/zee-tv-hd-in.png",ZEE TV ᴴᴰ
 https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
@@ -377,6 +375,7 @@ http://38.96.178.205/SONYHD/index.m3u8
 
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/8tKFqby/and-tv-hd-in.png",& TV ᴴᴰ
+https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 https://tv5.genatuz070.workers.dev/cdn/live/slang/and_tv_hd_576/and_tv_hd_576.m3u8
 http://202.70.146.135:8000/play/a06c/index.m3u8
@@ -519,6 +518,7 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/hRZY4z61/pngwing-com.png",JALSHA MOVIES ᴴᴰ
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
 http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155771&extension=ts&play_token=QIycCGPw7s
 
@@ -554,14 +554,15 @@ https://stream.ottplus.live/live/zee_action_abr/index.m3u8
  
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/YFF5vHv7/star-gold-hd-in.png",STAR GOLD ᴴᴰ
+http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
 http://51.75.127.199:3141/stargold/index.m3u8
-#http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
 http://66.102.126.10:8000/play/a00f/index.m3u8
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",ZEE ANMOL CINEMA ᴴᴰ
  
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/tTcgDbbM/star-gold-2-in.png",STAR GOLD 2 ᴴᴰ
+http://107.167.16.138/stargold2/index.m3u8?token=test
 http://103.155.18.186:8000/play/a02d/index.m3u8
 http://66.102.126.10:8000/play/a00g/index.m3u8
  
@@ -603,9 +604,8 @@ https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 https://cdn.devm3u.top/server1/goldmines.m3u8
 
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines Movie
-https://cdn.devm3u.top/server1/goldminesmovies.m3u8
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines Bollywood
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
