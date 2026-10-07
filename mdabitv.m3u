@@ -238,6 +238,7 @@ http://tvsen7.aynascope.net/MadaniTV/index.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/3mgjJwy5/Screenshot-2026-07-12-211056.jpg",Peace TV Bangla 
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
  
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/HD3Xkxt3/Screenshot-2026-07-12-211250.jpg",Peace TV English 
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
@@ -553,6 +554,7 @@ https://stream.ottplus.live/live/zee_action_abr/index.m3u8
  
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/YFF5vHv7/star-gold-hd-in.png",STAR GOLD ᴴᴰ
+http://51.75.127.199:3141/stargold/index.m3u8
 #http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
 http://66.102.126.10:8000/play/a00f/index.m3u8
  
