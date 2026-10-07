@@ -116,12 +116,14 @@ http://livetv.akr4m.com:8080/bdtv/restrem/13.m3u8
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/r7W0ZbQHU9.png",SOMOY TV 
+http://198.195.239.50:8095/somoyTv/index.m3u8
 https://tvsen5.aynascope.net/somoytv/mono.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/5X1JmFbF/Bangla-Vision.png",Bangla Vision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/V0t9c7SS/Screenshot-2026-07-11-233309.jpg",ATN Bangla ᴴᴰ
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/V0t9c7SS/Screenshot-2026-07-11-233309.jpg",ATN News ᴴᴰ
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/H038J5LwdN.png", Channel I
@@ -160,8 +162,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/mCwss66N/Asian-TV.png",Asian TV
-https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8 
 https://stream.ottplus.live/live/asian_tv_abr/index.m3u8
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/gLx9fX5N/News-24.png",News 24 
@@ -213,7 +215,7 @@ https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chu
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Star_News_Bangladesh_Old_Logo_Horizontal.svg/revision/latest/scale-to-width-down/340?cb=20260202200847",Star News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/rsDjtcFp/20240822_225424.png",Ekushey TV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
@@ -222,6 +224,7 @@ https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/Z54fVGww/20240822_230947.png", Nagorik
+http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/ry4QcVbh/20240822-231240.png",Green TV
@@ -232,7 +235,7 @@ https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
 #EXTINF:-1  group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/TYmSkqf3/20240822-230513.png",G TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8
+http://198.195.239.50:8095/GAZI.TV.HD/index.m3u8
 
 # ─────────── ISLAMIC ───────────
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/8gtmjZk7/Screenshot-2026-07-12-140826.jpg",Azan TV 
