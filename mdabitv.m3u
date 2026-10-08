@@ -1137,11 +1137,8 @@ http://index1.circleftp.net/FILE/Hindi%20Movies/1994%26%20Before/Raksha%20%28198
 
 
 # ─────────── LATEST MOVIES & TV SERIES ───────────
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="LATEST MOVIES & TV SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSBE52IVDp6Pf6RWTSUOx6bX5kl.jpg",Toxic: A Fairy Tale for Grown-ups (2026)
-https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Toxic%20(2026)%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
-
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES" tvg-name="LATEST MOVIES & TV SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWM5NWY5NGQtNWMwZC00NjgzLTk2ZWQtODQyYzhiNGM0ODUyXkEyXkFqcGc@._V1_.jpg",Malik
-https://fmftp.net/data/disk-1/movies/indianbangla/new/Malik%20(2026)/Malik.mkv
+#EXTINF:-1 group-title="LATEST MOVIES & TV SERIES" tvg-logo="https://image.tmdb.org/t/p/w500/gdllrWFb9ffvGkCDQAflrdnTaAg.jpg",Doraemon the Movie: New Nobita and the Castle of the Undersea Devil
+https://flixhub.net/stream/movie/doraemon-the-movie-new-nobita-and-the-castle-of-the-undersea-devil
 
 #EXTINF:-1 group-title="LATEST MOVIES & TV SERIES" tvg-logo="https://image.tmdb.org/t/p/original/v0jEBcZoRpQQYiJmYZUP0ZRkdp.jpg", Bachelor EP 105
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/105/S05E105.m3u8
@@ -1191,7 +1188,25 @@ https://tv.kbhub.online/Bachelor-Point/Bachelor-EP-119.m3u8
 #EXTINF:-1 group-title="LATEST MOVIES & TV SERIES" tvg-logo="https://image.tmdb.org/t/p/original/v0jEBcZoRpQQYiJmYZUP0ZRkdp.jpg", Bachelor EP 120
 https://tv.kbhub.online/Bachelor-Point/Bachelor-EP-120.m3u8
 
-#EXTINF:-1 group-title="LATEST MOVIES & TV SERIES" tvg-logo="https://cdn.district.in/movies-assets/images/cinema/Demon-Slayer--Kimetsu-no-Yaiba-Infinity-Castle-cover-91e66b40-9a9f-11f0-be0a-8909774f1565.jpg",Demon Slayer: Kimetsu no Yaiba Infinity Castle 
+#EXTINF:-1 group-title="LATEST MOVIES & TV SERIES" tvg-logo="https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",Doraemon the Movie: Nobita's Sky Utopia
+https://flixhub.net/stream/movie/doraemon-the-movie-nobitas-sky-utopia
+
+#EXTINF:-1 group-title="LATEST MOVIES & TV SERIES" tvg-logo="https://image.tmdb.org/t/p/w500/uux6M8z3hxLDkq8LXSzq8528mrq.jpg",Kung Fu Panda
+https://flixhub.net/stream/movie/kung-fu-panda
+
+#EXTINF:-1 group-title="LATEST MOVIES & TV SERIES" tvg-logo="https://image.tmdb.org/t/p/w500/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",Kung Fu Panda 2
+https://flixhub.net/stream/movie/kung-fu-panda-2
+
+#EXTINF:-1 group-title="LATEST MOVIES & TV SERIES" tvg-logo="https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg",Kung Fu Panda 3
+https://flixhub.net/stream/movie/kung-fu-panda-3
+
+#EXTINF:-1 group-title="LATEST MOVIES & TV SERIES" tvg-logo="https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",Kung Fu Panda 4
+https://flixhub.net/stream/movie/kung-fu-panda-4
+
+#EXTINF:-1 group-title="LATEST MOVIES & TV SERIES" tvg-logo="https://image.tmdb.org/t/p/w500/yStW1TXF5s7Tbtu9KjIZEaWl6HL.jpg",Suzume
+https://flixhub.net/stream/movie/suzume
+
+#EXTINF:-1 group-title="LATEST MOVIES & TV SERIES" tvg-logo="https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",Demon Slayer: Kimetsu no Yaiba Infinity Castle 
 https://ftp.ctgfun.com/Others/Asian%20Movie/Demon%20Slayer-Kimetsu%20no%20Yaiba%20Infinity%20Castle%20(2025)%20Hindi%20English%20Japanese%20720p%20BluRay%20x264%20ESub%20%5BDDN%5D/Demon%20Slayer-Kimetsu%20no%20Yaiba%20Infinity%20Castle%20%282025%29%20Hindi%20English%20Japanese%20720p%20BluRay%20x264%20ESub%20%5BDDN%5D.mp4#
 
 #EXTINF:-1 group-title="LATEST MOVIES & TV SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGIxZjZlZjUtODM0OC00NDJlLWI5ZjItNDg3MGJmODVmZWNhXkEyXkFqcGc@._V1_.jpg",Black Clover-Sword of the Wizard King
