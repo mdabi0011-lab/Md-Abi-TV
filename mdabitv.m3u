@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+i#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
@@ -314,8 +314,6 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co.com/JjpPKqcp/hungama-in.png",HUNGAMA 
 http://198.195.239.50:8095/HUNGAMA/index.m3u8
-http://bosstv.click:8080/live/18012689/77561563/92417.ts
-http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=1097664&extension=m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1097664.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/super-hungama.png" group-title="CARTOON",Super Hungama
