@@ -53,6 +53,7 @@ http://tvsen7.aynascope.net/sspts1/index.m3u8
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/HLkX5dw5/channels4-profile.jpg",UNITE8 SPORTS 1 HD
+http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8
 http://103.114.11.37:8081/Unite8-sports-1/index.m3u8
 http://speedmel.net:80/T3ZT2SM3960ZY8V/umae6FQlwQ/34676
 http://172.19.17.34/live/ontest1/ontest1/116.ts
@@ -510,6 +511,7 @@ https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
 https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/zWVxyd4M/sony-aath-in.png",SONY AATH ᴴᴰ
+http://198.195.239.50:8095/sonyAath/index.m3u8
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
  
