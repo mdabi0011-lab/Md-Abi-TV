@@ -340,7 +340,8 @@ http://198.195.239.50:8095/sonic/index.m3u8
 http://bosstv.click:8080/live/18012689/77561563/92412.ts
 http://live.balajibroadband.com:3500/live/1345.m3u8
 
-#EXTINF:-1 group-title="CARTOON"tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",Cartoon Network HD+
+#EXTINF:-1 group-title="CARTOON"tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",Cartoon Network 
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=372972
 
