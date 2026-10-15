@@ -9,9 +9,6 @@ i#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 https://videotourl.com/videos/1783932235156-e7d95931-d772-42a3-83f9-cc1f4ffc45dd.mp4
 
 # ───────────  SPORTS───────────
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QFwv0wCp/cropped-circle-image.png" group-title="SPORTS",FIFA ASEAN CUP 2026
-https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001790325863-0-0-de137f65703461bd9af47550dc885b86
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/QFwv0wCp/cropped-circle-image.png",FIFA ASEAN CUP 2026
 https://playztv-apps.pages.dev/ptv-sports/index.m3u8#skym3u.dev
 
@@ -40,14 +37,11 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/wNgW6Tp5/willow-us.png",Willow Sports
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
- 
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/DggdzpY7/pngegg.png",Star Sports 1 Hindi HD
+https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 http://41.205.93.154/STARSPORTS1/index.m3u8
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/DggdzpY7/pngegg.png",Star Sports 1  FHD
-http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
-http://tvsen7.aynascope.net/sspts1/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/DggdzpY7/pngegg.png",Star Sports 2 HD
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
@@ -105,13 +99,10 @@ http://103.114.11.37:8081/WWE-24/7/index.m3u8
 
 # ───────────  BANGLADESH───────────
 #EXTINF:-1 tvg-id="btvhd" tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" group-title="BANGLADESH",BTV.HD
-http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TXNCpCP/Btv-National.png",Sangsadᴴᴰ
-http://livetv.akr4m.com:8080/bdtv/restrem/32.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TXNCpCP/Btv-National.png",BTV Newsᴴᴰ
-http://livetv.akr4m.com:8080/bdtv/restrem/13.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/b994ae24dd627fb8b680e5cd654d1e9c.jpg",BTV CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
@@ -139,8 +130,7 @@ https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/Xxrdnxkp/Channel9-HD.png",Channel 9 ᴴᴰ
-https://akash-go.sm-monirul-islam-rs.workers.dev/channel_9_hd.m3u8
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts
+
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TMKLMXs9/DBC-News.png",DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
@@ -164,8 +154,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/mCwss66N/Asian-TV.png",Asian TV
-https://stream.ottplus.live/live/asian_tv_abr/index.m3u8
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8 
+https://stream.ottplus.live/live/asian_tv_abr/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/gLx9fX5N/News-24.png",News 24 
@@ -255,6 +245,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
  
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/mFMwgRbw/Screenshot-2026-07-12-211430.jpg",Saudi Quran SD
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8
 https://filex.me:8443/live/3114654477/5787654467/311.m3u8
 https://tv8.akashgo.workers.dev/cdn/live/slang/saudi_quran_160/saudi_quran_160.m3u8?bitrate=512000&channel=saudi_quran_160&gp_id=
@@ -271,6 +262,7 @@ https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
  
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/60h7qGyC/pngegg.png",Saudia Sunnahᴴᴰ
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 https://filex.me:8443/live/3114654477/5787654467/247145.m3u8
 
@@ -380,6 +372,7 @@ http://202.70.146.135:8000/play/a00b/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/5gxQZ4pL/sony-entertainment-television-hd-in.png",SONY TV ᴴᴰ
+https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 http://202.70.146.135:8000/play/a005/index.m3u8
 
@@ -392,8 +385,8 @@ http://38.96.178.205/SONYHD/index.m3u8
 
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/8tKFqby/and-tv-hd-in.png",& TV ᴴᴰ
-https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
+https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 https://tv5.genatuz070.workers.dev/cdn/live/slang/and_tv_hd_576/and_tv_hd_576.m3u8
 http://202.70.146.135:8000/play/a06c/index.m3u8
  
@@ -635,8 +628,7 @@ https://cdn.devm3u.top/server1/goldmines.m3u8
 https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines Bollywood
-https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
-
+https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/tracks-v1a1/mono.m3u8#skym3u.dev
 # ─────────── MUSIC ───────────
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/3ycsFp7H/9xm-in.png",9XM ᴴᴰ
 https://9xjio.wiseplayout.com/9XM/HD720/HD720.m3u8?nocache=1784939471635
