@@ -1,7 +1,5 @@
-i#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+# Playlist Name: Md Abi TV
+# Last Update: 9:00 PM 17-10-2026
 
 #EXTM3U
 # ─────────── Md Abi TV───────────
@@ -62,6 +60,7 @@ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fd
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/3VtDX65/unnamed-1.png",PTV SPORTS ᴴᴰ
+http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
 https://flussonic.defineatoz.com/PTV/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png",Star Sports SL 1ᴴᴰ
@@ -306,6 +305,7 @@ https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co.com/JjpPKqcp/hungama-in.png",HUNGAMA 
+http://103.135.253.32:8080/HUNGAMA/index.m3u8
 http://198.195.239.50:8095/HUNGAMA/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1097664.m3u8
 
@@ -320,6 +320,7 @@ http://88.212.15.19/live/test_disney/playlist.m3u8
 http://202.70.146.135:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png",Durunto
+http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
 
@@ -545,6 +546,8 @@ http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155771&ext
  
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Gfd8tS2k/and-pictures-in.png",& PICTURE ᴴᴰ
+https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
@@ -572,6 +575,7 @@ https://stream.ottplus.live/live/zee_action_abr/index.m3u8
  
  
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/YFF5vHv7/star-gold-hd-in.png",STAR GOLD ᴴᴰ
+http://103.114.11.37:8081/StarGold/index.m3u8?token=dsgdfgsdfgasf#fb:M3U_World_4K
 http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
 http://51.75.127.199:3141/stargold/index.m3u8
 http://66.102.126.10:8000/play/a00f/index.m3u8
