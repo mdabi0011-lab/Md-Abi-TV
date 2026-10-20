@@ -42,6 +42,7 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/DggdzpY7/pngegg.png",Star Sports 2 HD
+https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/HLkX5dw5/channels4-profile.jpg",UNITE8 SPORTS 1 HD
 http://speedmel.net:80/T3ZT2SM3960ZY8V/umae6FQlwQ/34676
@@ -101,12 +102,13 @@ http://103.114.11.37:8081/WWE-24/7/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TXNCpCP/Btv-National.png",Sangsadᴴᴰ
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TXNCpCP/Btv-National.png",BTV Newsᴴᴰ
+https://btv.hridoytv-channel.workers.dev/news.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/b994ae24dd627fb8b680e5cd654d1e9c.jpg",BTV CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/r7W0ZbQHU9.png",SOMOY TV 
-
+https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/5X1JmFbF/Bangla-Vision.png",Bangla Vision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
@@ -209,6 +211,7 @@ http://103.135.253.32:8080/Star-News/index.m3u8
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/Tw4qxSqv/20240822-230126.png",Bijoy Tv
+https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/Z54fVGww/20240822_230947.png", Nagorik
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
@@ -459,7 +462,8 @@ http://198.195.239.50:8095/sonyAath/index.m3u8
 #https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png",COLORS BANGLA ᴴᴰ
- 
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8
+
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/WvnnvxhN/Screenshot-2026-07-30-173811.jpg",ENTER10 BANGLA 
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
