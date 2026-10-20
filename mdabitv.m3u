@@ -203,6 +203,7 @@ https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Star_News_Bangladesh_Old_Logo_Horizontal.svg/revision/latest/scale-to-width-down/340?cb=20260202200847",Star News
+http://103.135.253.32:8080/Star-News/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/rsDjtcFp/20240822_225424.png",Ekushey TV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
@@ -221,8 +222,7 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
 #EXTINF:-1  group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/TYmSkqf3/20240822-230513.png",G TV
-http://198.195.239.50:8095/GAZI.TV.HD/index.m3u8
-
+http://103.135.253.32:8080/Gazi-TV/index.m3u8
 # ─────────── ISLAMIC ───────────
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co.com/8gtmjZk7/Screenshot-2026-07-12-140826.jpg",Azan TV 
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
@@ -361,7 +361,8 @@ http://103.114.11.37:8081/Star-Plus-HD/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/TDYY54J0/colors-hd-in.png",COLORS ᴴᴰ 
- 
+http://103.135.253.32:8080/Color-HD/index.m3u8
+
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/7xY5116n/sony-sab-hd-in.png",SONY SAB ᴴᴰ
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
  
@@ -385,6 +386,7 @@ https://tv5.genatuz070.workers.dev/cdn/live/slang/and_tv_hd_576/and_tv_hd_576.m3
 http://202.70.146.135:8000/play/a06c/index.m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co.com/vCdMrMPW/star-bharat-hd-in.png",STAR BHARAT ᴴᴰ
+http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0Rrlt7ta1WceuKdbR2ZG2M/m3u8
  
 #EXTINF:-1 group-title="INDIAN" tvg-logo="",
@@ -601,7 +603,8 @@ https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xia
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
  
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co.com/sdzkqS2R/toppng-com-national-geographic-logo-vector-400x400.png",NATIONAL GEOGRAPHIC ᴴᴰ
- 
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_892290001738663264.png",SONY BBC EARTH
 https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA_Ozru7NOfp9m14vmxiQpqE/m3u8
