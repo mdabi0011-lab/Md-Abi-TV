@@ -109,7 +109,7 @@ http://103.114.11.37:8081/WWE-24/7/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TXNCpCP/Btv-National.png",Sangsadᴴᴰ
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TXNCpCP/Btv-National.png",BTV Newsᴴᴰ
-https://btv.hridoytv-channel.workers.dev/news.m3u8
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/b994ae24dd627fb8b680e5cd654d1e9c.jpg",BTV CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
@@ -166,6 +166,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/gLx9fX5N/News-24.png",News 24 
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/Jago_News_24.png" group-title="BANGLADESH",Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
  
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imglink.cc/cdn/D8KxMc9soN.png",N TV 
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
